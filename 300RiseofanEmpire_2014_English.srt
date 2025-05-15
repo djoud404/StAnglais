@@ -1,3701 +1,3910 @@
 1
-00:00:00,010 --> 00:00:21,444
-<font face="Bauhaus 93"> <i> <font color="purple"> Happy Watching</font>
+00:00:56,390 --> 00:00:58,893
+<i>The Oracle's words stand as a warning.</i>
 
 2
-00:00:54,104 --> 00:00:56,919
-<font color=#FFFF00> <i> words prediction reminder.</i></font>
+00:00:59,601 --> 00:01:00,602
+<i>A prophecy.</i>
 
 3
-00:00:57,005 --> 00:00:58,167
-<font color=#FFFF00> <i> A prediction .</i></font>
+00:01:02,521 --> 00:01:04,319
+<i>Sparta will fall.</i>
 
 4
-00:01:00,092 --> 00:01:02,118
-<font color=#FFFF00> <i> " Sparta will fall "</i></font>
+00:01:04,815 --> 00:01:07,364
+<i>All of Greece will fall.</i>
 
 5
-00:01:02,505 --> 00:01:04,842
-<font color=#FFFF00> <i> "All Greeks will fall . "</i></font>
+00:01:14,366 --> 00:01:17,996
+<i>And Persian fire will reduce Athens to cinder.</i>
 
 6
-00:01:12,037 --> 00:01:15,183
-<font color=#FFFF00> <i> " And Persian Fire will destroy Athens . "</i></font>
+00:01:18,745 --> 00:01:21,294
+<i>For Athens is a pile of stone and wood...</i>
 
 7
-00:01:16,558 --> 00:01:21,007
-<font color=#FFFF00> <i> " Because Athens is
-heap of stones , wood, cloth and ashes. "</i></font>
+00:01:21,540 --> 00:01:23,213
+<i>...and cloth and dust...</i>
 
 8
-00:01:21,581 --> 00:01:24,658
-<font color=#FFFF00> <i> " As the dust , the city is also
-will be gone by the wind. "</i></font>
+00:01:23,750 --> 00:01:27,425
+<i>...and, as dust, will vanish into the wind.</i>
 
 9
-00:01:25,664 --> 00:01:28,074
-<font color=#FFFF00> <i> " Only people of Athens will be safe."</i></font>
+00:01:27,754 --> 00:01:30,303
+<i>Only the Athenians themselves exist.</i>
 
 10
-00:01:28,500 --> 00:01:31,590
-<font color=#FFFF00> <i> " And the fate of the world is in their hands. "</i></font>
+00:01:30,549 --> 00:01:33,553
+<i>And the fate of the world hangs
+on their every syllable.</i>
 
 11
-00:01:37,540 --> 00:01:39,329
-<font color=#FFFF00> <i> " Only people of Athens will be safe."</i></font>
+00:01:40,475 --> 00:01:41,601
+<i>Only the Athenians exist.</i>
 
 12
-00:01:41,439 --> 00:01:44,077
-<font color=#FFFF00> <i> " And only the great ocean liner
-can save them. "</i></font>
+00:01:43,687 --> 00:01:46,156
+<i>And only stout wooden ships can save them.</i>
 
 13
-00:01:45,684 --> 00:01:46,273
-<font color=#FFFF00> <i> " Wooden Ships ...."</i></font>
+00:01:47,899 --> 00:01:49,572
+<i>Wooden ships...</i>
 
 14
-00:01:48,041 --> 00:01:51,015
-<font color=#FFFF00> <i> " ... And the blood wave Warrior . "</i></font>
+00:01:50,152 --> 00:01:52,450
+<i>...and a tidal wave of heroes' blood.</i>
 
 15
-00:01:52,383 --> 00:01:57,629
-<font face="Bauhaus 93"> <i> <font color="purple"> 300 : THE RESURRECTION OF AN EMPIRE</font>
+00:02:02,039 --> 00:02:04,713
+<i>Leonidas, my husband...</i>
 
 16
-00:01:59,818 --> 00:02:02,115
-<font color=#FFFF00> <i> Leonidas , my husband ....</i></font>
+00:02:05,417 --> 00:02:06,964
+<i>...Leonidas, your king...</i>
 
 17
-00:02:03,195 --> 00:02:05,153
-<font color="#FFFF00"> <i> Leonidas , King of you ....</i></font>
+00:02:08,629 --> 00:02:12,304
+...Leonidas and the brave 300 are dead.
 
 18
-00:02:06,454 --> 00:02:10,005
-<font color="#FFFF00"> Leonidas and 300 Warrior suicide has died.</font>
+00:02:13,592 --> 00:02:15,219
+The free men and women of Greece...
 
 19
-00:02:11,543 --> 00:02:16,050
-<font color="#FFFF00"> Greek Men and women can not afford
-repay the sacrifice of the Spartans .</font>
+00:02:15,469 --> 00:02:18,222
+...are not bound by
+a beautiful Spartan death.
 
 20
-00:02:16,330 --> 00:02:18,414
-<font color="#FFFF00"> War is not their field.</font>
+00:02:18,597 --> 00:02:20,599
+War is not their love.
 
 21
-00:02:18,653 --> 00:02:21,008
-<font color=#FFFF00> But Leonidas will sacrifice for them .</font>
+00:02:20,849 --> 00:02:23,193
+Yet he lay down his life for them.
 
 22
-00:02:21,283 --> 00:02:23,127
-<font color=#FFFF00> Greek Demi promise of success .</font>
+00:02:23,435 --> 00:02:25,403
+For the promise Greece holds.
 
 23
-00:02:25,994 --> 00:02:30,305
-<font color=#FFFF00> it is our enemies who receive
-freedom from the fire of war .</font>
+00:02:28,148 --> 00:02:32,153
+'Tis our enemies who forged our freedom
+in the fires of war.
 
 24
-00:02:30,964 --> 00:02:33,991
-<font color=#FFFF00> coming King Darius had
-grab our land .</font>
+00:02:33,278 --> 00:02:36,373
+It was King Darius
+who came to take our land.
 
 25
-00:02:35,161 --> 00:02:38,158
-<font color=#FFFF00> Ten years ago when we were all young ....</font>
+00:02:37,449 --> 00:02:40,749
+Ten years ago,
+when youth still burned in our eyes...
 
 26
-00:02:38,945 --> 00:02:42,770
-<font color="#FFFF00"> Before the bitterness of this war
-forcing our children to become fighters ....</font>
+00:02:41,078 --> 00:02:44,799
+...before this bitter war forced our children
+to become men.
 
 27
-00:02:44,240 --> 00:02:47,515
-<font color="#FFFF00"> Ten years ago ,
-This war started ....</font>
+00:02:46,416 --> 00:02:50,341
+Ten years ago, this war began...
 
 28
-00:02:48,408 --> 00:02:50,280
-<font color="#FFFF00"> .... like any other battle .</font>
+00:02:50,587 --> 00:02:52,589
+...as all wars begin:
 
 29
-00:02:51,412 --> 00:02:53,050
-<font color=#FFFF00> the fight.</font>
+00:02:53,382 --> 00:02:55,225
+With a grievance.
 
 30
-00:02:56,031 --> 00:02:57,396
-<font color=#FFFF00> <i> Marathon.</i></font>
+00:02:58,220 --> 00:02:59,722
+<i>Marathon.</i>
 
 31
-00:02:59,041 --> 00:03:00,644
-<font color=#FFFF00> <i> Persian King Darius ....</i></font>
+00:03:01,139 --> 00:03:02,982
+<i>The Persian king, Darius...</i>
 
 32
-00:03:01,190 --> 00:03:04,197
-<font color=#FFFF00> <i> .... annoyed with Greek independence .</i></font>
+00:03:03,475 --> 00:03:05,898
+<i>...annoyed by the notion of Greek freedom...</i>
 
 33
-00:03:04,641 --> 00:03:06,860
-<font color=#FFFF00> <i> He came to Greece to conquer us .</i></font>
+00:03:06,728 --> 00:03:09,072
+<i>...has come to Greece to bring us to heel.</i>
 
 34
-00:03:09,361 --> 00:03:11,345
-<font color=#FFFF00> <i> He landed at Marathon.</i></font>
+00:03:11,608 --> 00:03:13,702
+<i>He makes landfall at the field of Marathon...</i>
 
 35
-00:03:11,722 --> 00:03:15,816
-<font color="#FFFF00"> <i> Joint army of more than
-total defense greece , 3 compared with 1 .</i></font>
+00:03:13,944 --> 00:03:16,367
+<i>...with an invading force
+which outnumbers...</i>
 
 36
-00:03:16,534 --> 00:03:19,640
-<font color="#FFFF00"> <i> When dawn , Athens Team despair
-do the unprecedented - thought ...</i></font>
+00:03:16,613 --> 00:03:18,581
+<i>...the Greek defenders three-to-one.</i>
 
 37
-00:03:20,368 --> 00:03:21,494
-<font color=#FFFF00> <i> They attacked .</i></font>
+00:03:18,824 --> 00:03:21,953
+<i>And so at dawn, the hopeless Athenians
+do the unthinkable.</i>
 
 38
-00:03:22,681 --> 00:03:24,115
-<font color="#FFFF00"> <i> They attacked Team Persian fatigue ....</i></font>
+00:03:22,744 --> 00:03:24,246
+<i>They attack.</i>
 
 39
-00:03:24,423 --> 00:03:28,246
-When they color=#FFFF00> <font <i> mooring
-after months - months sailing in the ocean .</i></font>
+00:03:24,496 --> 00:03:26,874
+<i>They attack the weary Persians
+as they disembark...</i>
 
 40
-00:03:28,683 --> 00:03:33,176
-<font color=#FFFF00> <i> They attack before the Persian managed to build brand
-and dividing the weapon on their team .</i></font>
+00:03:27,124 --> 00:03:30,594
+<i>...their ships
+on shaky legs after a month at sea.</i>
 
 41
-00:03:34,406 --> 00:03:37,922
-<font color="#FFFF00"> <i> Who planners to this great strategy </ i ></font>
+00:03:31,545 --> 00:03:34,048
+<i>They attack before they can
+establish their war camp...</i>
 
 42
-00:03:38,710 --> 00:03:41,338
-<font color="#FFFF00"> <i> A greek warrior who
-not so known .</i></font>
+00:03:34,297 --> 00:03:35,765
+<i>...and supply their soldiers.</i>
 
 43
-00:03:42,398 --> 00:03:43,900
-<font color="#FFFF00"> <i> He is known as ....</i></font>
+00:03:36,758 --> 00:03:37,759
+<i>And who...</i>
 
 44
-00:03:44,466 --> 00:03:46,016
-<font color=#FFFF00> <i> Themistokles .</i></font>
+00:03:38,009 --> 00:03:40,387
+<i>...is the architect of this mad strategy?</i>
 
 45
-00:03:46,353 --> 00:03:49,467
-<font color="#FFFF00"> <i> He has given attack
-surprise over the Persian troops .</i></font>
+00:03:41,012 --> 00:03:42,052
+<i>A little-known Athenian...</i>
 
 46
-00:06:12,999 --> 00:06:15,543
-<font color=#FFFF00> <i> All hope to win has arrived.</i></font>
+00:03:42,222 --> 00:03:43,724
+<i>...soldier.</i>
 
 47
-00:06:15,887 --> 00:06:16,910
-<font color="#FFFF00"> <i> Thousands Persian fighters dead .</i></font>
+00:03:44,641 --> 00:03:46,234
+<i>His men call him...</i>
 
 48
-00:06:17,636 --> 00:06:19,115
-<font color=#FFFF00> <i> Only the loss of hundreds of Greek fighters .</i></font>
+00:03:46,476 --> 00:03:48,274
+<i>...Themistokles.</i>
 
 49
-00:06:22,034 --> 00:06:25,384
-<font color="#FFFF00"> <i> all for one idea ,
-Greek independence ....</i></font>
+00:03:48,520 --> 00:03:52,115
+<i>He gives the Persians a taste
+of Athenian shock combat.</i>
 
 50
-00:06:25,777 --> 00:06:28,509
-<font color=#FFFF00> <i> Experiment Athens called " Democracy " .</i></font>
+00:06:14,583 --> 00:06:16,176
+<i>All thoughts of glory are gone.</i>
 
 51
-00:06:32,166 --> 00:06:34,395
-<font color=#FFFF00> <i> Does the idea should be pursued ?</i></font>
+00:06:17,752 --> 00:06:18,719
+<i>Thousands dead.</i>
 
 52
-00:06:34,664 --> 00:06:37,089
-<font color=#FFFF00> <i> Is it worth all this sacrifice ?</i></font>
+00:06:19,421 --> 00:06:20,968
+<i>Hundreds of them their own.</i>
 
 53
-00:06:38,781 --> 00:06:41,869
-<font color="#FFFF00"> <i> Themistokles let
-Darius to decide.</i></font>
+00:06:23,884 --> 00:06:27,309
+<i>All for an idea: A free Greece...</i>
 
 54
-00:06:45,031 --> 00:06:46,617
-<font color=#FFFF00> <i> turmoil ....</i></font>
+00:06:27,554 --> 00:06:30,478
+<i>...an Athenian experiment
+called "democracy."</i>
 
 55
-00:06:46,822 --> 00:06:48,439
-<font color=#FFFF00> Emerging <i> a chance .</i></font>
+00:06:34,102 --> 00:06:35,399
+<i>Could this idea be worth it?</i>
 
 56
-00:06:52,061 --> 00:06:54,757
-<font color=#FFFF00> <i> Themistokles exploit .</i></font>
+00:06:36,605 --> 00:06:39,324
+<i>Worth all this sacrifice?</i>
 
 57
-00:07:04,870 --> 00:07:07,909
-<font color=#FFFF00> <i> An advantage of the echo
-for hundreds of years .</i></font>
+00:06:41,401 --> 00:06:43,745
+<i>Themistokles would let
+the good King Darius decide.</i>
 
 58
-00:07:08,763 --> 00:07:11,300
-<font color="#FFFF00"> <i> An advantage of the lifting
-subordinate status of hero ....</i></font>
+00:06:47,032 --> 00:06:48,659
+<i>For through the chaos...</i>
 
 59
-00:07:11,306 --> 00:07:13,926
-<font color="#FFFF00"> <i> .... To be a source of political power in Athens .</i></font>
+00:06:48,909 --> 00:06:50,456
+<i>...a moment appeared.</i>
 
 60
-00:07:13,932 --> 00:07:16,651
-<font color=#FFFF00> No </ font>
+00:06:53,997 --> 00:06:55,670
+<i>And Themistokles would seize it.</i>
 
 61
-00:07:18,923 --> 00:07:22,223
-<font color="#FFFF00"> <i> An advantage of
-has made Themistokles as legends.</i></font>
+00:07:06,885 --> 00:07:07,932
+<i>A moment...</i>
 
 62
-00:07:41,369 --> 00:07:44,920
-<font color=#FFFF00> <i> But while praise and
-success came to him ....</i></font>
+00:07:08,178 --> 00:07:09,976
+<i>...that would ring across the centuries.</i>
 
 63
-00:07:45,123 --> 00:07:48,078
-<font color="#FFFF00"> <i> Themistokles understand in his heart
-that he had made ??a mistake .</i></font>
+00:07:10,221 --> 00:07:11,222
+<i>A moment that would...</i>
 
 64
-00:07:49,424 --> 00:07:54,746
-<font color="#FFFF00"> <i> Prince Darius, Xerxes will
-determine the fate of them .</i></font>
+00:07:11,473 --> 00:07:13,225
+<i>...raise him from simple soldier...</i>
 
 65
-00:07:56,749 --> 00:07:59,120
-<font color=#FFFF00> <i> Themistokles realizes that he must kill the child.</i></font>
+00:07:13,475 --> 00:07:15,648
+<i>...to the height of Athenian political power.</i>
 
 66
-00:08:00,811 --> 00:08:03,850
-<font color=#FFFF00> <i> large error will haunt him forever .</i></font>
+00:07:15,894 --> 00:07:18,443
+No!
 
 67
-00:08:10,405 --> 00:08:15,492
-<font color=#FFFF00> <i> light Themistokles
-fire battle the Persians ....</i></font>
+00:07:20,857 --> 00:07:24,282
+<i>A moment that would make
+Themistokles a legend.</i>
 
 68
-00:08:15,712 --> 00:08:20,176
-<font color="#FFFF00"> <i> ended with the team
-bring fire into the heart of the Greek people .</i></font>
+00:07:43,046 --> 00:07:44,673
+<i>Yet even as the praise and glory...</i>
 
 69
-00:08:23,046 --> 00:08:25,436
-<font color="#FFFF00"> <i> When the wise king
-lay waiting for death ....</i></font>
+00:07:44,923 --> 00:07:46,766
+<i>...were heaped upon him...</i>
 
 70
-00:08:25,891 --> 00:08:29,989
-<font color="#FFFF00"> <i> Whole Counsel General and the best
-called to his side .</i></font>
+00:07:47,008 --> 00:07:49,932
+<i>Themistokles knew in his heart
+he had made a mistake.</i>
 
 71
-00:08:30,294 --> 00:08:34,560
-<font color="#FFFF00"> <i> But nothing is more powerful than
-Naval commander , Artemisia .</i></font>
+00:07:51,179 --> 00:07:53,807
+<i>It was Darius' son, Xerxes...</i>
 
 72
-00:08:35,486 --> 00:08:38,280
-<font color="#FFFF00"> <i> violence covered by her beauty.</i></font>
+00:07:54,057 --> 00:07:56,480
+<i>...whose eyes had the stink
+of destiny about them.</i>
 
 73
-00:08:38,516 --> 00:08:41,757
-<font color="#FFFF00"> <i> Her beauty is comparable to
-loyalty to the King .</i></font>
+00:07:58,561 --> 00:08:01,064
+<i>Themistokles knew
+he should have killed that boy.</i>
 
 74
-00:08:48,026 --> 00:08:50,244
-<font color="#FFFF00"> <i> Darius loves the Artemisia
-compared with other officials ....</i></font>
+00:08:02,941 --> 00:08:06,036
+<i>That glorious mistake
+would forever haunt him.</i>
 
 75
-00:08:50,552 --> 00:08:53,420
-<font color=#FFFF00> <i> Because he has given
-many victories on the battlefield.</i></font>
+00:08:12,325 --> 00:08:14,043
+<i>And so it was Themistokles himself...</i>
 
 76
-00:08:54,108 --> 00:08:57,581
-<font color="#FFFF00"> <i> Artemisia is best fighters ....</i></font>
+00:08:14,285 --> 00:08:17,380
+<i>...who sent a ripple
+across the Persian empire...</i>
 
 77
-00:08:57,590 --> 00:09:00,382
-<font color="#FFFF00"> <i> never owned even by
-own son , Xerxes .</i></font>
+00:08:17,622 --> 00:08:19,340
+<i>...and set into motion...</i>
 
 78
-00:09:05,003 --> 00:09:08,042
-<font color=#FFFF00> 're very good , my daughter ....</font>
+00:08:19,582 --> 00:08:22,301
+<i>...forces that would bring fire
+to the heart of Greece.</i>
 
 79
-00:09:09,293 --> 00:09:11,089
-<font color=#FFFF00> Princess ....</font>
+00:08:25,005 --> 00:08:26,928
+<i>For as the good king lay dying...</i>
 
 80
-00:09:11,858 --> 00:09:13,039
-<font color=#FFFF00> .... dear .</font>
+00:08:27,173 --> 00:08:28,641
+<i>...all his greatest generals...</i>
 
 81
-00:09:21,872 --> 00:09:23,018
-<font color=#FFFF00> Dad.</font>
+00:08:28,883 --> 00:08:31,887
+<i>...and advisors
+were summoned to his bedside.</i>
 
 82
-00:09:24,172 --> 00:09:25,556
-<font color=#FFFF00> Xerxes .</font>
+00:08:32,220 --> 00:08:33,392
+<i>None greater...</i>
 
 83
-00:09:26,119 --> 00:09:29,737
-<font color=#FFFF00> Do you repeat your father's fault .</font>
+00:08:33,638 --> 00:08:37,359
+<i>...than his finest
+naval commander, Artemisia.</i>
 
 84
-00:09:30,019 --> 00:09:34,541
-<font color=#FFFF00> Forget everything about Greece .</font>
+00:08:37,767 --> 00:08:40,441
+<i>Her ferocity bested only by her beauty.</i>
 
 85
-00:09:35,596 --> 00:09:38,832
-<font color=#FFFF00> The gods are
-capable of defeating them .</font>
+00:08:40,687 --> 00:08:43,941
+<i>Her beauty matched only
+by her devotion to her king.</i>
 
 86
-00:09:39,329 --> 00:09:42,495
-The gods <font color=#FFFF00> .</font>
+00:08:50,071 --> 00:08:52,324
+<i>Darius favored Artemisia
+among his generals...</i>
 
 87
-00:09:54,912 --> 00:09:56,919
-<font color=#FFFF00> <i> For seven days of mourning Xerxes ....</i></font>
+00:08:52,574 --> 00:08:55,498
+<i>...for she had brought him victory
+on the battlefield.</i>
 
 88
-00:09:57,358 --> 00:09:59,059
-<font color=#FFFF00> <i> .... clouded by grief .</i></font>
+00:08:56,119 --> 00:08:57,291
+<i>In her...</i>
 
 89
-00:09:59,404 --> 00:10:04,544
-<font color=#FFFF00> <i> On day eight , Artemisia whisper
-seeds of hatred that possess him.</i></font>
+00:08:57,537 --> 00:09:00,461
+<i>...he had the perfect warrior protégée...</i>
 
 90
-00:10:04,766 --> 00:10:08,385
-<font color="#FFFF00"> is not your father's words are a reminder ....</font>
+00:09:00,707 --> 00:09:02,630
+<i>...that his son, Xerxes, would never be.</i>
 
 91
-00:10:09,557 --> 00:10:11,141
-Unless color=#FFFF00> <font resistance.</font>
+00:09:06,838 --> 00:09:10,217
+So sweet, my child.
 
 92
-00:10:12,623 --> 00:10:15,491
-<font color=#FFFF00> Only god can beat the Greeks ?</font>
+00:09:11,217 --> 00:09:13,015
+My sweet...
 
 93
-00:10:18,192 --> 00:10:22,934
-<font color=#FFFF00> You'll be the king of the gods.</font>
+00:09:13,762 --> 00:09:15,389
+...child.
 
 94
-00:10:26,394 --> 00:10:28,921
-<font color="#FFFF00"> <i> Artemisia gathered monks , witches ....</i></font>
+00:09:23,772 --> 00:09:25,274
+Father.
 
 95
-00:10:28,923 --> 00:10:31,765
-<font color="#FFFF00"> <i> astrologers from across the Imperial territories .</i></font>
+00:09:25,982 --> 00:09:27,529
+Xerxes.
 
 96
-00:10:32,509 --> 00:10:34,797
-<font color="#FFFF00"> <i> They rub the young King ....</i></font>
+00:09:28,026 --> 00:09:31,405
+Do not repeat your father's mistake.
 
 97
-00:10:35,002 --> 00:10:37,333
-<font color=#FFFF00> <i> Cimmerian ancient ingredient .</i></font>
+00:09:32,739 --> 00:09:36,414
+Leave the ignoble Greeks to their ways.
 
 98
-00:10:37,792 --> 00:10:40,236
-<font color=#FFFF00> <i> and send it to the desert ....</i></font>
+00:09:37,535 --> 00:09:40,664
+Only the gods can defeat them.
 
 99
-00:10:40,706 --> 00:10:43,285
-<font color="#FFFF00"> <i> When he encounters suffering,
-heat and thirst ....</i></font>
+00:09:41,581 --> 00:09:44,676
+Only the gods.
 
 100
-00:10:43,345 --> 00:10:46,196
-<font color="#FFFF00"> <i> He found a cave meditating .</i></font>
+00:09:56,721 --> 00:09:58,769
+<i>For seven days, Xerxes mourned...</i>
 
 101
-00:10:50,177 --> 00:10:54,304
-<font color="#FFFF00"> <i> Xerxes has come to evil
-with an empty soul ....</i></font>
+00:09:59,015 --> 00:10:01,109
+<i>...paralyzed by grief.</i>
 
 102
-00:10:54,508 --> 00:10:59,230
-<font color="#FFFF00"> <i> Where damned creatures inhabit
-at the corner of the human heart .</i></font>
+00:10:01,351 --> 00:10:04,696
+<i>On the eighth day, Artemisia
+whispered the seed of madness...</i>
 
 103
-00:11:01,267 --> 00:11:03,245
-<font color=#FFFF00> <i> And in the Darkness ...</i></font>
+00:10:04,938 --> 00:10:06,690
+<i>...that would consume him.</i>
 
 104
-00:11:03,491 --> 00:11:06,167
-<font color=#FFFF00> <i> He surrendered completely ....</i></font>
+00:10:06,940 --> 00:10:10,695
+Your father's words were not a warning...
 
 105
-00:11:06,547 --> 00:11:09,707
-<font color=#FFFF00> <i> to strength so bad .</i></font>
+00:10:11,486 --> 00:10:13,113
+...but a challenge.
 
 106
-00:11:13,476 --> 00:11:19,032
-<font color="#FFFF00"> <i> So melt , until no more
-Xerxes the humanity in themselves .</i></font>
+00:10:14,614 --> 00:10:17,538
+Only the gods can defeat the Greeks?
 
 107
-00:11:27,447 --> 00:11:30,406
-<font color="#FFFF00"> <i> smoldering eyes light up like a rock .</i></font>
+00:10:20,120 --> 00:10:24,125
+You will be a god-king.
 
 108
-00:11:32,342 --> 00:11:38,088
-<font color=#FFFF00> <i> He has been refined throughout.</i></font>
+00:10:28,461 --> 00:10:30,759
+<i>Artemisia gathered the priests, wizards...</i>
 
 109
-00:11:40,192 --> 00:11:43,400
-<font color=#FFFF00> <i> Xerxes reborn as a god .</i></font>
+00:10:31,005 --> 00:10:34,100
+<i>...and mystics
+from every corner of the empire.</i>
 
 110
-00:11:48,474 --> 00:11:50,986
-<font color=#FFFF00> Artemisia <i> not believe anyone.</i></font>
+00:10:34,509 --> 00:10:35,635
+<i>They wrapped...</i>
 
 111
-00:11:51,230 --> 00:11:53,040
-<font color=#FFFF00> <i> kegalapan Night ....</i></font>
+00:10:35,885 --> 00:10:39,264
+<i>...the young king in Cimmerian gauze
+dipped in ancient potions...</i>
 
 112
-00:11:53,598 --> 00:11:56,934
-<font color=#FFFF00> <i> Palace has been cleared of all allies of Xerxes .</i></font>
+00:10:39,681 --> 00:10:42,059
+<i>...and set him to wander the desert...</i>
 
 113
-00:12:00,389 --> 00:12:01,960
-<font color=#FFFF00> <i> Everyone belief ....</i></font>
+00:10:43,268 --> 00:10:46,522
+<i>...till in a delirium of heat and thirst,
+he stumbled upon...</i>
 
 114
-00:12:06,844 --> 00:12:08,687
-<font color=#FFFF00> <i> Everyone who has raised her ....</i></font>
+00:10:46,771 --> 00:10:48,148
+<i>...a hermit's cave.</i>
 
 115
-00:12:13,954 --> 00:12:16,627
-<font color=#FFFF00> <i> All advisers who once helped him ....</i></font>
+00:10:52,110 --> 00:10:54,659
+<i>Xerxes passed the vacant eyes...</i>
 
 116
-00:12:18,201 --> 00:12:20,808
-<font color="#FFFF00"> <i> .... has been a victim of terror.</i></font>
+00:10:54,904 --> 00:10:56,326
+<i>...and empty souls...</i>
 
 117
-00:12:46,597 --> 00:12:50,262
-<font color="#FFFF00"> <i> And when the king of the gods stand
-in front of people ....</i></font>
+00:10:56,573 --> 00:11:00,578
+<i>...of the hollow creatures that dwell
+in the dark corners of all men's hearts.</i>
 
 118
-00:12:50,691 --> 00:12:54,298
-<font color="#FFFF00"> <i> Artemisia saw
-success of the game.</i></font>
+00:11:03,163 --> 00:11:05,291
+<i>And in that darkness...</i>
 
 119
-00:12:54,420 --> 00:12:56,571
-<font color=#FFFF00> To be successful ....</font>
+00:11:06,624 --> 00:11:08,467
+<i>...he surrendered himself completely...</i>
 
 120
-00:12:57,350 --> 00:12:59,475
-<font color=#FFFF00> sake of revenge ...</font>
+00:11:08,710 --> 00:11:11,759
+<i>...to power so evil and perverse...</i>
 
 121
-00:13:02,002 --> 00:13:03,218
-<font color=#FFFF00> .... War </ font>
+00:11:15,383 --> 00:11:17,101
+<i>...that, as he emerged...</i>
 
 122
-00:13:03,923 --> 00:13:05,196
-<font color=#FFFF00> War </ font>
+00:11:17,343 --> 00:11:20,688
+<i>...no part of a human man
+that was Xerxes survived.</i>
 
 123
-00:13:08,225 --> 00:13:10,729
-<font color=#FFFF00> <i> War has come to Greece ...</i></font>
+00:11:29,314 --> 00:11:32,534
+<i>His eyes blazed like scarlet coals.</i>
 
 124
-00:13:10,841 --> 00:13:14,287
-<font color="#FFFF00"> <i> comprising millions of very strong fighter .</i></font>
+00:11:34,402 --> 00:11:38,327
+<i>He was stripped, cleansed, glabrous...</i>
 
 125
-00:13:15,271 --> 00:13:20,544
-<font color=#FFFF00> Themistokles <i> That task ,
-Heroes battle of Marathon ....</i></font>
+00:11:38,573 --> 00:11:40,075
+<i>...and smooth.</i>
 
 126
-00:13:20,641 --> 00:13:22,461
-<font color=#FFFF00> <i> to finish
-what he started.</i></font>
+00:11:41,993 --> 00:11:43,245
+<i>Xerxes was reborn...</i>
 
 127
-00:13:23,893 --> 00:13:24,833
-<font color=#FFFF00> quiet!</font>
+00:11:43,494 --> 00:11:44,962
+<i>...a god.</i>
 
 128
-00:13:24,937 --> 00:13:27,323
-<font color=#FFFF00> We must persuade Xerxes </ font>
+00:11:50,293 --> 00:11:52,466
+<i>Artemisia trusted no one.</i>
 
 129
-00:13:27,528 --> 00:13:28,604
-<font color=#FFFF00> Cowards !</font>
+00:11:53,171 --> 00:11:55,048
+<i>So in the cover of night...</i>
 
 130
-00:13:28,809 --> 00:13:31,187
-<font color=#FFFF00> Athens city coward!</font>
+00:11:55,298 --> 00:11:59,053
+<i>...the palace was cleansed
+of all Xerxes' allies.</i>
 
 131
-00:13:31,192 --> 00:13:32,960
-<font color=#FFFF00> - shut up !
-- You have to close your mouth!</font>
+00:12:02,388 --> 00:12:04,106
+<i>All those he trusted...</i>
 
 132
-00:13:32,968 --> 00:13:34,883
-<font color="#FFFF00"> I will kill you!
-Ones to Sparta </ font>
+00:12:08,770 --> 00:12:11,023
+<i>...all those who had raised him...</i>
 
 133
-00:13:35,105 --> 00:13:37,509
-<font color="#FFFF00"> hell with the well-built muscular fighters </ font>
+00:12:15,818 --> 00:12:18,162
+<i>...all those he had
+once looked to for counsel...</i>
 
 134
-00:13:37,717 --> 00:13:40,172
-<font color=#FFFF00> - Quiet !
-- Quiet for Heroes Marathon </ font>
+00:12:19,989 --> 00:12:22,742
+<i>...were quickly introduced to her wrath.</i>
 
 135
-00:13:40,192 --> 00:13:43,058
-This color="#FFFF00"> <font Democracy , not fighting on the streets.</font>
+00:12:48,476 --> 00:12:49,978
+<i>And as the god-king stood...</i>
 
 136
-00:13:43,219 --> 00:13:45,075
-<font color=#FFFF00> Shut all !
-By Themistokles </ font>
+00:12:50,228 --> 00:12:51,901
+<i>...before his people...</i>
 
 137
-00:13:45,468 --> 00:13:48,988
-<font color=#FFFF00> upcoming Persian attacks
-From the north and south .</font>
+00:12:53,064 --> 00:12:55,908
+<i>...Artemisia watched her flawless
+manipulation take shape.</i>
 
 138
-00:13:49,128 --> 00:13:51,811
-<font color="#FFFF00"> We should negotiate for a ceasefire.</font>
+00:12:56,150 --> 00:12:58,903
+- For glory's sake...
+- For glory's sake...
 
 139
-00:13:51,986 --> 00:13:54,408
-<font color=#FFFF00> Yes ! Yes ! we should consult </ font>
+00:12:59,153 --> 00:13:01,747
+...for vengeance's sake...
+...for vengeance's sake...
 
 140
-00:13:55,448 --> 00:13:57,141
-<font color=#FFFF00> Consult with tyranny ?</font>
+00:13:03,992 --> 00:13:05,289
+...war.
 
 141
-00:13:58,222 --> 00:14:01,521
-<font color=#FFFF00> Give me examples of the benefits for the country.</font>
+00:13:05,868 --> 00:13:07,290
+...war!
 
 142
-00:14:01,524 --> 00:14:02,850
-<font color=#FFFF00> He's right.
-We must unite .</font>
+00:13:10,081 --> 00:13:12,630
+<i>War is coming to Greece...</i>
 
 143
-00:14:02,874 --> 00:14:04,079
-<font color=#FFFF00> Friend countrymen ....</font>
+00:13:12,875 --> 00:13:16,379
+<i>...in the visage of a monster army
+over a million strong.</i>
 
 144
-00:14:04,747 --> 00:14:10,138
-<font color=#FFFF00> We can only assess future
-of our suffering in the past.</font>
+00:13:17,255 --> 00:13:20,475
+<i>It should be little more than a formality
+for Themistokles...</i>
 
 145
-00:14:11,684 --> 00:14:14,245
-<font color=#FFFF00> Many of you here
-have fought with me in Marathon ....</font>
+00:13:20,717 --> 00:13:22,390
+<i>...the hero of Marathon...</i>
 
 146
-00:14:15,523 --> 00:14:19,927
-<font color=#FFFF00> For those who have
-experience how cruel sense of a war ....</font>
+00:13:22,635 --> 00:13:24,603
+<i>...to finish what he began.</i>
 
 147
-00:14:20,204 --> 00:14:22,905
-<font color=#FFFF00> So you know how
-establish true peace .</font>
+00:13:25,888 --> 00:13:29,438
+Please! We must appeal to Xerxes' reason!
 
 148
-00:14:23,530 --> 00:14:25,612
-<font color=#FFFF00> Do not be fooled!</font>
+00:13:29,684 --> 00:13:30,731
+Coward!
 
 149
-00:14:25,692 --> 00:14:29,892
-<font color=#FFFF00> Xerxes, Darius Prince
-a crafty person .</font>
+00:13:30,977 --> 00:13:33,230
+Athens is a city of cowards!
 
 150
-00:14:30,906 --> 00:14:33,213
-<font color=#FFFF00> Here, Now ....</font>
+00:13:33,479 --> 00:13:34,025
+Shut your cock hole!
 
 151
-00:14:33,815 --> 00:14:35,430
-<font color=#FFFF00> We have to make choices.</font>
+00:13:34,272 --> 00:13:35,364
+Shut your own!
 
 152
-00:14:35,907 --> 00:14:38,546
-<font color=#FFFF00> We fight for Greek or not ?</font>
+00:13:35,606 --> 00:13:37,574
+I'll kill you! Fuck the Spartans!
 
 153
-00:14:39,841 --> 00:14:41,190
-<font color=#FFFF00> Argos ....</font>
+00:13:37,817 --> 00:13:39,444
+Fuck those muscle-bound boy-lovers!
 
 154
-00:14:41,420 --> 00:14:42,569
-<font color=#FFFF00> Corinth ....</font>
+00:13:39,694 --> 00:13:40,411
+Silence!
 
 155
-00:14:42,663 --> 00:14:43,971
-<font color=#FFFF00> Megara ....</font>
+00:13:40,653 --> 00:13:42,254
+Silence for the hero of Marathon!
 
 156
-00:14:44,050 --> 00:14:45,248
-<font color=#FFFF00> Athens .</font>
+00:13:42,447 --> 00:13:44,950
+This is a democracy, not a street fight.
 
 157
-00:14:45,462 --> 00:14:48,443
-Even color=#FFFF00> <font Spartans will not be able
-against Persia alone .</font>
+00:13:45,199 --> 00:13:46,997
+Quiet! It's Themistokles.
 
 158
-00:14:48,455 --> 00:14:51,041
-<font color="#FFFF00"> We must come together as One Nation
-One Nation .</font>
+00:13:47,243 --> 00:13:50,838
+The Persian attack will come
+from both the north and the south.
 
 159
-00:14:51,148 --> 00:14:54,870
-<font color=#FFFF00> or we will be destroyed by
-desire ourselves.</font>
+00:13:51,080 --> 00:13:53,674
+The city-states should negotiate a truce.
 
 160
-00:14:56,428 --> 00:14:59,678
-<font color=#FFFF00> Point ship we need
-in defense of Greece .</font>
+00:13:53,916 --> 00:13:56,294
+Yes, yes, we must negotiate.
 
 161
-00:14:59,929 --> 00:15:02,501
-<font color=#FFFF00> Themistokles need more ships
-of our city .</font>
+00:13:57,295 --> 00:13:58,888
+Negotiate with tyranny?
 
 162
-00:15:02,702 --> 00:15:04,706
-<font color=#FFFF00> She also require our children to fight.</font>
+00:14:00,089 --> 00:14:02,968
+Give me one example of when
+that has ever profited a nation.
 
 163
-00:15:07,021 --> 00:15:08,374
-<font color=#FFFF00> How to Sparta </ font>
+00:14:03,217 --> 00:14:06,097
+- You're right. We must unite.
+- My fellow countrymen...
 
 164
-00:15:08,385 --> 00:15:13,758
-<font color=#FFFF00> Submit all ships
-we have toward the northern shores of Euboea .</font>
+00:14:06,763 --> 00:14:09,437
+...we can only judge the future...
 
 165
-00:15:14,859 --> 00:15:18,684
-<font color=#FFFF00> I would go to for help
-from the great state of Sparta .</font>
+00:14:09,682 --> 00:14:12,356
+...from what we have suffered in the past.
 
 166
-00:15:40,808 --> 00:15:44,234
-<font color=#FFFF00> Still no news from
-you send messengers to Sparta.</font>
+00:14:13,728 --> 00:14:16,356
+Now, many of you here
+stood with me at Marathon.
 
 167
-00:15:45,071 --> 00:15:48,097
-<font color=#FFFF00> King Leonidas may
-offended on tawaranmu .</font>
+00:14:17,523 --> 00:14:19,525
+And for those of you who served...
 
 168
-00:15:48,342 --> 00:15:52,283
-<font color=#FFFF00> Maybe I who should progress
-To Sparta and destroy it.</font>
+00:14:19,776 --> 00:14:21,904
+...and faced the cut
+and thrust of battle...
 
 169
-00:15:54,296 --> 00:15:55,379
-<font color=#FFFF00> Remember ....</font>
+00:14:22,153 --> 00:14:24,702
+...you know how true peace is forged.
 
 170
-00:15:55,959 --> 00:15:58,430
-<font color=#FFFF00> When a King who loved like me ....</font>
+00:14:25,615 --> 00:14:27,333
+Do not be deceived.
 
 171
-00:15:59,207 --> 00:16:01,655
-<font color=#FFFF00> Many things can be achieved .</font>
+00:14:27,575 --> 00:14:29,623
+Xerxes, the son of Darius...
 
 172
-00:16:03,014 --> 00:16:06,380
-<font color=#FFFF00> They will bow to my power.</font>
+00:14:29,869 --> 00:14:31,963
+...is a wolf at our door.
 
 173
-00:16:06,582 --> 00:16:09,354
-<font color="#FFFF00"> Athens sought to combine strength .</font>
+00:14:32,747 --> 00:14:34,920
+Right here, right now...
 
 174
-00:16:09,392 --> 00:16:12,037
-<font color=#FFFF00> That's nothing more than a bunch of small ships.</font>
+00:14:35,792 --> 00:14:37,510
+...we must choose:
 
 175
-00:16:14,000 --> 00:16:17,731
-<font color="#FFFF00"> Having dominated the waters ,
-will i bring the whole team to the mainland .</font>
+00:14:37,919 --> 00:14:40,593
+Do we stand and fight for Greece or not?
 
 176
-00:16:18,445 --> 00:16:23,708
-<font color="#FFFF00"> I will remind the Greek coward that
-we have not forgotten their humiliation .</font>
+00:14:41,756 --> 00:14:42,928
+Argos...
 
 177
-00:16:34,010 --> 00:16:35,874
-<font color=#FFFF00> Each and feed his horse.</font>
+00:14:43,174 --> 00:14:44,346
+...Corinth...
 
 178
-00:16:36,111 --> 00:16:37,583
-<font color=#FFFF00> I'd better go alone.</font>
+00:14:44,592 --> 00:14:45,764
+...Megara...
 
 179
-00:16:37,796 --> 00:16:41,401
-Sparta color=#FFFF00> <font not friendly with us .</font>
+00:14:46,010 --> 00:14:47,637
+...Athens.
 
 180
-00:17:32,792 --> 00:17:33,838
-<font color=#FFFF00> Sparta Policy .</font>
+00:14:47,887 --> 00:14:50,356
+Not even Sparta
+can match the Persians alone.
 
 181
-00:17:34,040 --> 00:17:35,398
-<font color=#FFFF00> Themistokles .</font>
+00:14:50,598 --> 00:14:52,817
+We must persevere as one nation.
 
 182
-00:17:36,130 --> 00:17:37,494
-<font color=#FFFF00> your policy serpent .</font>
+00:14:53,059 --> 00:14:55,312
+Or we will perish clinging onto...
 
 183
-00:17:37,706 --> 00:17:39,356
-<font color=#FFFF00> What made you go into this South </ font>
+00:14:55,561 --> 00:14:57,234
+...our own self-interests.
 
 184
-00:17:39,409 --> 00:17:42,212
-<font color="#FFFF00"> I want to find Leonidas to remind
-Persian troops who are moving here.</font>
+00:14:58,356 --> 00:15:01,701
+Send us the ships that we need
+to defend Greece.
 
 185
-00:17:42,383 --> 00:17:43,616
-<font color=#FFFF00> 're late .</font>
+00:15:01,943 --> 00:15:04,366
+Themistokles will need more
+than our cities' ships.
 
 186
-00:17:43,862 --> 00:17:46,947
-<font color=#FFFF00> Bearing Persian message
-conditions apply to Leonidas .</font>
+00:15:04,612 --> 00:15:06,535
+He will need our children
+to join the fight.
 
 187
-00:17:47,855 --> 00:17:50,020
-<font color=#FFFF00> Deals symbolic of the state.</font>
+00:15:08,658 --> 00:15:10,035
+And what of Sparta?
 
 188
-00:17:58,805 --> 00:18:00,085
-<font color=#FFFF00> Sparta </ font>
+00:15:10,284 --> 00:15:13,128
+You send every ship that we have...
 
 189
-00:18:00,420 --> 00:18:02,248
-<font color=#FFFF00> Know this well - good .</font>
+00:15:13,371 --> 00:15:15,715
+...to the northern coast of Euboea.
 
 190
-00:18:02,952 --> 00:18:05,901
-<font color=#FFFF00> Sparta .... That is the best time</font>
+00:15:16,958 --> 00:15:20,838
+I will go and seek the help
+of the great Spartans.
 
 191
-00:18:06,816 --> 00:18:09,886
-<font color=#FFFF00> best performance that should be remembered ....</font>
+00:15:42,483 --> 00:15:43,564
+Still no word...
 
 192
-00:18:10,359 --> 00:18:11,503
-<font color=#FFFF00> the time ....</font>
+00:15:43,734 --> 00:15:46,203
+...from the messenger
+you sent to Sparta.
 
 193
-00:18:11,901 --> 00:18:16,766
-<font color=#FFFF00> When he fought wholeheartedly
-Sparta liberation ....</font>
+00:15:46,863 --> 00:15:49,992
+King Leonidas may have been insulted
+by your generous offer.
 
 194
-00:18:17,331 --> 00:18:20,513
-<font color=#FFFF00> And fall on the battlefield ...</font>
+00:15:50,241 --> 00:15:54,212
+Perhaps I need to march into Sparta myself
+and burn it to the ground.
 
 195
-00:18:20,787 --> 00:18:22,436
-<font color=#FFFF00> In Victory !</font>
+00:15:56,164 --> 00:15:57,666
+Remember...
 
 196
-00:18:24,214 --> 00:18:25,352
-<font color=#FFFF00> Now ....</font>
+00:15:57,915 --> 00:15:59,633
+...when a king is loved as I am...
 
 197
-00:18:25,940 --> 00:18:28,587
-<font color=#FFFF00> Who was willing to die on the side of our king </ font>
+00:16:01,085 --> 00:16:03,338
+...much can be accomplished.
 
 198
-00:18:32,507 --> 00:18:34,071
-<font color=#FFFF00> Themistokles .</font>
+00:16:04,881 --> 00:16:08,226
+They would be fools
+to resist my divine power.
 
 199
-00:18:36,130 --> 00:18:40,124
-<font color=#FFFF00> You have come from afar to
-witness a real man practice .</font>
+00:16:08,468 --> 00:16:11,267
+Athens is attempting to assemble a coalition.
 
 200
-00:18:40,255 --> 00:18:41,247
-<font color=#FFFF00> Queen Gorgo .</font>
+00:16:11,512 --> 00:16:13,981
+It'll be nothing more
+than a patchwork of ships.
 
 201
-00:18:42,570 --> 00:18:45,363
-<font color=#FFFF00> should not train them
-living on the side of the king ?</font>
+00:16:16,184 --> 00:16:19,984
+Once these waters have been traversed,
+I will lead my force across the land.
 
 202
-00:18:47,225 --> 00:18:49,552
-<font color=#FFFF00> new era has arrived, Gorgo .</font>
+00:16:20,229 --> 00:16:22,573
+I will remind the cowards of Greece...
 
 203
-00:18:50,256 --> 00:18:54,011
-<font color=#FFFF00> Soon they will be
-Mystical and rise up against tyranny .</font>
+00:16:22,815 --> 00:16:26,240
+...that we have not forgotten their insolence.
 
 204
-00:18:54,335 --> 00:18:55,650
-<font color=#FFFF00> That sounds like a threat .</font>
+00:16:36,162 --> 00:16:37,960
+Rest and water the horses.
 
 205
-00:18:55,816 --> 00:18:57,009
-<font color=#FFFF00> not.</font>
+00:16:38,206 --> 00:16:39,628
+It's best I go alone.
 
 206
-00:18:57,530 --> 00:19:02,138
-<font color=#FFFF00> An opportunity to join with the rest of
-Greece and fight the tyranny of the lo .. , ..</font>
+00:16:39,874 --> 00:16:43,299
+Spartans don't get along well with others.
 
 207
-00:19:02,337 --> 00:19:06,074
-<font color=#FFFF00> Unless you associate with Xerxes and Leonidas .</font>
+00:17:34,762 --> 00:17:36,560
+- Spartans.
+- Themistokles.
 
 208
-00:19:06,268 --> 00:19:08,079
-<font color=#FFFF00> no partner .</font>
+00:17:37,932 --> 00:17:39,400
+You old snake.
 
 209
-00:19:08,746 --> 00:19:10,517
-<font color=#FFFF00> Xerxes messenger carriers have ....</font>
+00:17:39,642 --> 00:17:42,486
+- What brings you this far south?
+- I've come to see Leonidas.
 
 210
-00:19:10,714 --> 00:19:14,954
-He color=#FFFF00> <font rude and disrespectful ,
-he did not know that ....</font>
+00:17:42,728 --> 00:17:45,652
+- To warn him that the Persians are on the march.
+- You're too late.
 
 211
-00:19:14,956 --> 00:19:17,686
-<font color=#FFFF00> threat to Thebes and Athens
-not occur here .</font>
+00:17:45,898 --> 00:17:49,072
+Persian messenger already presented
+his terms to Leonidas.
 
 212
-00:19:18,334 --> 00:19:21,706
-<font color=#FFFF00> This birthplace of the world's best warriors .</font>
+00:17:49,819 --> 00:17:52,197
+Symbolic offering of earth and water.
 
 213
-00:19:22,470 --> 00:19:27,063
-<font color=#FFFF00> place where the king
-fought tooth and nail by all citizens.</font>
+00:18:00,830 --> 00:18:02,207
+Spartans!
 
 214
-00:19:27,803 --> 00:19:32,588
-<font color=#FFFF00> Xerxes messenger carriers do not understand that
-This place is not like other Greek cities .</font>
+00:18:02,456 --> 00:18:03,537
+Know this and know it well.
 
 215
-00:19:35,618 --> 00:19:37,552
-<font color=#FFFF00> This Sparta.</font>
+00:18:05,001 --> 00:18:07,595
+That any Spartan's finest moment...
 
 216
-00:19:38,876 --> 00:19:41,792
-<font color=#FFFF00> was clear for messenger
-Sparta would not bow .</font>
+00:18:08,337 --> 00:18:09,759
+...the greatest fulfillment...
 
 217
-00:19:41,796 --> 00:19:43,289
-<font color=#FFFF00> very clear .</font>
+00:18:10,006 --> 00:18:11,849
+...of all he holds dear...
 
 218
-00:19:43,292 --> 00:19:46,560
-<font color="#FFFF00"> Now , Leonidas talks
-the oracle about his war plans .</font>
+00:18:12,091 --> 00:18:13,388
+...is that moment...
 
 219
-00:19:46,669 --> 00:19:49,561
-<font color=#FFFF00> Festival carnea one - the only thing that can stop us .</font>
+00:18:13,634 --> 00:18:15,762
+...when he has fought his heart out...
 
 220
-00:19:49,674 --> 00:19:52,134
-<font color=#FFFF00> course oracle
-recommend that we fight.</font>
+00:18:16,012 --> 00:18:18,856
+...for the preservation of Sparta...
 
 221
-00:19:52,216 --> 00:19:53,910
-<font color=#FFFF00> Means I have come just in time.</font>
+00:18:19,098 --> 00:18:22,443
+...and lies dead on the battlefield...
 
 222
-00:19:54,845 --> 00:19:57,956
-<font color=#FFFF00> I lead the Fleet
-association representing Greece .</font>
+00:18:22,685 --> 00:18:24,403
+...victorious.
 
 223
-00:19:58,593 --> 00:20:00,774
-<font color=#FFFF00> I want to Sparta to join with me.</font>
+00:18:26,188 --> 00:18:27,440
+Now...
 
 224
-00:20:01,462 --> 00:20:02,910
-<font color=#FFFF00> Point Kapalmu , Gorgo .</font>
+00:18:27,940 --> 00:18:29,988
+...who is willing to die at our king's side?
 
 225
-00:20:03,170 --> 00:20:06,155
-<font color=#FFFF00> I will make sure that Xerxes
-never crosses the Aegean .</font>
+00:18:30,234 --> 00:18:31,360
+Ooh!
 
 226
-00:20:06,315 --> 00:20:09,688
-<font color=#FFFF00> You will never be able to ship Sparta.
-We're not interested in Greek society .</font>
+00:18:34,488 --> 00:18:36,081
+Themistokles.
 
 227
-00:20:09,693 --> 00:20:12,585
-<font color=#FFFF00> That's your dream , Themistokles ,
-Not our dream .</font>
+00:18:38,034 --> 00:18:41,959
+You've come a long way to stroke your cock
+whilst watching real men train.
 
 228
-00:20:13,077 --> 00:20:15,842
-<font color=#FFFF00> What I care about nothing but independence Sparta.</font>
+00:18:42,204 --> 00:18:43,251
+Queen Gorgo.
 
 229
-00:20:17,803 --> 00:20:19,433
-<font color=#FFFF00> sheperd will send you out .</font>
+00:18:44,415 --> 00:18:47,385
+Shouldn't he be training them
+to live at their king's side?
 
 230
-00:20:22,192 --> 00:20:25,810
-<font color=#FFFF00> Funny if you're proud of kemerdekaanmu
-in this separation .</font>
+00:18:48,961 --> 00:18:50,641
+<i>A new age is dawning, Gorgo.</i>
 
 231
-00:20:26,785 --> 00:20:28,888
-<font color=#FFFF00> Independence wisely ....</font>
+00:18:52,256 --> 00:18:56,102
+Won't be long before men rise up
+and shed the yoke of mysticism and tyranny.
 
 232
-00:20:29,301 --> 00:20:31,346
-<font color=#FFFF00> been chosen to fight for it .</font>
+00:18:56,344 --> 00:18:58,813
+- That sounds like a threat.
+- No.
 
 233
-00:20:34,474 --> 00:20:35,541
-<font color=#FFFF00> My queen .</font>
+00:18:59,221 --> 00:19:02,896
+An opportunity to join the rest of free Greece
+and stand against a true tyrant.
 
 234
-00:20:39,329 --> 00:20:41,486
-<font color=#FFFF00> Are Spartans will join in our war </ font>
+00:19:04,518 --> 00:19:08,148
+Unless, of course, you and Leonidas
+have already made a deal with Xerxes.
 
 235
-00:20:42,902 --> 00:20:45,736
-Looks like Persian <font color="#FFFF00"> offer something
-can not be rejected by the Spartans .</font>
+00:19:08,397 --> 00:19:10,149
+No terms were reached.
 
 236
-00:20:45,962 --> 00:20:47,186
-<font color=#FFFF00> What is it?</font>
+00:19:10,733 --> 00:19:12,610
+Xerxes' messenger was...
 
 237
-00:20:48,247 --> 00:20:49,705
-<font color=#FFFF00> beautiful death .</font>
+00:19:12,860 --> 00:19:15,329
+Well, he was rude and he lacked respect.
 
 238
-00:21:08,742 --> 00:21:11,540
-<font color=#FFFF00> They say that you are a prisoner of the bravest .</font>
+00:19:15,571 --> 00:19:19,576
+He didn't understand the same threats made
+in Thebes and Athens would not work here.
 
 239
-00:21:12,231 --> 00:21:15,599
-<font color=#FFFF00> They said you were a prostitute from the Northeast .</font>
+00:19:20,326 --> 00:19:23,671
+This is the birthplace
+of the world's greatest warriors.
 
 240
-00:21:19,288 --> 00:21:21,821
-<font color=#FFFF00> You're not that smart.</font>
+00:19:24,955 --> 00:19:28,755
+Men whose king would stand
+and fight and die for any one of them.
 
 241
-00:21:24,203 --> 00:21:26,120
-<font color=#FFFF00> your Commander Greeks.</font>
+00:19:29,794 --> 00:19:31,011
+Xerxes' messenger...
 
 242
-00:21:26,684 --> 00:21:28,296
-<font color=#FFFF00> Just like me .</font>
+00:19:31,253 --> 00:19:34,473
+...did not understand
+this is no typical Greek city-state.
 
 243
-00:21:28,708 --> 00:21:32,816
-You color=#FFFF00> <font Persian warrior by
-command of a Greek woman </ font>
+00:19:37,551 --> 00:19:39,394
+This is Sparta.
 
 244
-00:21:33,177 --> 00:21:36,308
-<font color=#FFFF00> Yes, Brother, I'm of Greek descent ...</font>
+00:19:40,763 --> 00:19:43,642
+It was clear to the messenger
+there'd be no Spartan submission?
 
 245
-00:21:36,788 --> 00:21:39,844
-<font color=#FFFF00> And Greek blood flow in nadiku .</font>
+00:19:43,891 --> 00:19:44,938
+It was clear.
 
 246
-00:21:42,121 --> 00:21:43,877
-<font color=#FFFF00> But my heart ....</font>
+00:19:45,184 --> 00:19:48,484
+Even now Leonidas is in counsel
+with the Oracle over his battle plan.
 
 247
-00:21:46,452 --> 00:21:47,834
-<font color=#FFFF00> .... Owned Persia.</font>
+00:19:48,729 --> 00:19:51,403
+The Festival of the Carneia
+is all that stands in our way.
 
 248
-00:22:20,591 --> 00:22:21,907
-<font color=#FFFF00> few hours away ....</font>
+00:19:51,649 --> 00:19:54,368
+Surely the Oracle will see we must fight.
 
 249
-00:22:22,628 --> 00:22:25,165
-<font color=#FFFF00> Greek fleet would helter - poranda .</font>
+00:19:54,610 --> 00:19:56,203
+Well, then my timing is perfect.
 
 250
-00:22:25,188 --> 00:22:28,238
-<font color=#FFFF00> What our god king
-The Spartans were feared and </ font>
+00:19:56,987 --> 00:20:00,161
+I am commanding a fleet of ships
+that will represent a united Greece.
 
 251
-00:22:28,504 --> 00:22:30,278
-<font color=#FFFF00> Nothing to fear .</font>
+00:20:00,408 --> 00:20:02,661
+I need Sparta to join me.
 
 252
-00:22:31,146 --> 00:22:36,696
-<font color=#FFFF00> Only King Leonidas and 300
-personal warrior going into battle .</font>
+00:20:03,577 --> 00:20:04,999
+Give me your ships, Gorgo.
 
 253
-00:22:36,884 --> 00:22:38,767
-<font color=#FFFF00> They would lose a moment.</font>
+00:20:05,246 --> 00:20:08,090
+I'll make sure that Xerxes wishes
+he never crossed the Aegean.
 
 254
-00:22:42,291 --> 00:22:43,682
-<font color=#FFFF00> you.</font>
+00:20:08,332 --> 00:20:11,586
+You'll receive no Spartan ships.
+We've no interest in a united Greece.
 
 255
-00:22:49,389 --> 00:22:50,753
-<font color=#FFFF00> Do you agree ?</font>
+00:20:11,836 --> 00:20:14,430
+That is your dream, Themistokles, not ours.
 
 256
-00:22:53,477 --> 00:22:55,024
-<font color=#FFFF00> They will all perish .</font>
+00:20:15,047 --> 00:20:17,175
+All I am concerned with
+is the preservation...
 
 257
-00:22:56,233 --> 00:22:59,496
-<font color=#FFFF00> Keyakinanmu gave me a very deep impression .</font>
+00:20:17,425 --> 00:20:18,551
+...of Sparta.
 
 258
-00:23:00,951 --> 00:23:03,565
-<font color=#FFFF00> Very strange for Caregivers ship ....</font>
+00:20:19,719 --> 00:20:21,642
+My guards will see you out.
 
 259
-00:23:03,579 --> 00:23:06,447
-<font color=#FFFF00> not lose sight
-when I asked him .</font>
+00:20:24,014 --> 00:20:25,641
+It's funny that you mock freedom...
 
 260
-00:23:07,289 --> 00:23:09,993
-<font color=#FFFF00> Maybe just irreverent nature .</font>
+00:20:25,891 --> 00:20:27,768
+...here in your selfish isolation.
 
 261
-00:23:11,146 --> 00:23:14,146
-<font color=#FFFF00> But hands can not lie .</font>
+00:20:28,728 --> 00:20:30,856
+Yet freedom, in her wisdom...
 
 262
-00:23:14,349 --> 00:23:19,327
-<font color=#FFFF00> can reveal imperfections Hand
-and defects in character .</font>
+00:20:31,105 --> 00:20:33,403
+...has chosen you to defend her.
 
 263
-00:23:20,207 --> 00:23:24,285
-<font color=#FFFF00> You see, not enough hands rough
-to work on this ship .</font>
+00:20:36,444 --> 00:20:37,661
+My queen.
 
 264
-00:23:25,900 --> 00:23:28,628
-<font color=#FFFF00> I know all my carriers .</font>
+00:20:41,240 --> 00:20:43,413
+Will Sparta join our fight?
 
 265
-00:23:28,832 --> 00:23:32,494
-<font color=#FFFF00> Can you tell me,
-why I did not recognize you ?</font>
+00:20:44,744 --> 00:20:47,497
+Apparently the Persians have offered
+the Spartans something they cannot refuse.
 
 266
-00:23:34,611 --> 00:23:36,466
-<font color=#FFFF00> Excuse me, Commander .</font>
+00:20:47,747 --> 00:20:48,428
+And what is that?
 
 267
-00:23:39,819 --> 00:23:41,556
-<font color=#FFFF00> Let me introduce myself.</font>
+00:20:50,249 --> 00:20:51,922
+A beautiful death.
 
 268
-00:23:43,354 --> 00:23:44,507
-<font color=#FFFF00> Catch spies .</font>
+00:21:10,227 --> 00:21:13,527
+They say you are the bravest
+of our captives.
 
 269
-00:24:03,435 --> 00:24:04,930
-<font color=#FFFF00> Coward .</font>
+00:21:14,106 --> 00:21:17,610
+They say you are a whore
+from the eastern seas.
 
 270
-00:24:06,243 --> 00:24:08,063
-<font color=#FFFF00> storm here soon.</font>
+00:21:21,030 --> 00:21:23,624
+You're not the smartest.
 
 271
-00:24:10,891 --> 00:24:13,576
-<font color=#FFFF00> This is just bad weather Greece .</font>
+00:21:26,035 --> 00:21:28,037
+Your commander is a Greek.
 
 272
-00:24:26,264 --> 00:24:27,319
-<font color=#FFFF00> Themistokles .</font>
+00:21:28,287 --> 00:21:30,255
+Just like me.
 
 273
-00:24:27,490 --> 00:24:28,525
-Enter color=#FFFF00> <font .</font>
+00:21:31,540 --> 00:21:34,794
+You Persian men take your orders
+from a Greek woman.
 
 274
-00:24:32,295 --> 00:24:33,426
-<font color=#FFFF00> Calisto .</font>
+00:21:35,044 --> 00:21:38,389
+Yes, my brother, I am Greek by birth...
 
 275
-00:24:33,671 --> 00:24:36,374
-<font color=#FFFF00> What we discuss here can not be duplicated.</font>
+00:21:38,631 --> 00:21:41,680
+...and I have Greek blood
+running through my veins.
 
 276
-00:24:36,679 --> 00:24:37,779
-<font color=#FFFF00> case anywhere .</font>
+00:21:44,386 --> 00:21:46,138
+But my heart...
 
 277
-00:24:40,976 --> 00:24:44,200
-<font color=#FFFF00> my Prince never made ??war ....</font>
+00:21:48,641 --> 00:21:49,858
+...is Persian.
 
 278
-00:24:44,367 --> 00:24:45,990
-<font color=#FFFF00> But you can believe it.</font>
+00:22:22,383 --> 00:22:23,805
+Within hours...
 
 279
-00:24:46,341 --> 00:24:47,436
-<font color=#FFFF00> right.</font>
+00:22:24,510 --> 00:22:26,888
+...the Greek fleet will be shattered.
 
 280
-00:24:48,777 --> 00:24:49,923
-<font color=#FFFF00> Tell me.</font>
+00:22:27,137 --> 00:22:29,936
+What of our master
+and the much-feared Spartans?
 
 281
-00:24:50,095 --> 00:24:53,324
-<font color=#FFFF00> A leading Greek Women
-entire fleet of Xerxes heading south.</font>
+00:22:30,182 --> 00:22:32,310
+There's nothing to fear.
 
 282
-00:24:54,286 --> 00:24:55,970
-<font color=#FFFF00> Artemisia .</font>
+00:22:32,893 --> 00:22:36,773
+Only King Leonidas
+and his personal guard of 300...
 
 283
-00:24:56,986 --> 00:24:58,069
-<font color=#FFFF00> I recognize it.</font>
+00:22:37,022 --> 00:22:39,024
+...have marched to fight.
 
 284
-00:24:58,093 --> 00:25:01,821
-Artemisia color=#FFFF00> <font a trained killer
-with a fleet of exceptional ability ....</font>
+00:22:39,275 --> 00:22:40,396
+They'll collapse. Instantly.
 
 285
-00:25:02,006 --> 00:25:03,866
-<font color=#FFFF00> thirst for revenge He .</font>
+00:22:44,071 --> 00:22:44,663
+You.
 
 286
-00:25:04,796 --> 00:25:08,581
-Apparently color=#FFFF00> <font whole family killed
-by the Greek government .</font>
+00:22:51,328 --> 00:22:52,796
+Do you agree?
 
 287
-00:25:09,708 --> 00:25:11,996
-<font color=#FFFF00> I've heard that story .</font>
+00:22:55,332 --> 00:22:56,709
+Many will perish.
 
 288
-00:25:13,214 --> 00:25:15,717
-<font color=#FFFF00> At that time, the government
-not forgive anyone.</font>
+00:22:58,127 --> 00:23:01,256
+Your confidence leaves me
+with a strong impression.
 
 289
-00:25:42,558 --> 00:25:46,691
-<font color=#FFFF00> <i> According to Acts , they were raped repeatedly
-and kill the entire family.</i></font>
+00:23:02,756 --> 00:23:04,929
+It's a curious thing for a simple ship guard...
 
 290
-00:25:48,414 --> 00:25:51,240
-<font color=#FFFF00> <i> Then they destroy it.</i></font>
+00:23:05,175 --> 00:23:07,928
+...to not lower his eyes
+when questioned by me.
 
 291
-00:26:14,037 --> 00:26:17,739
-<font color="#FFFF00"> <i> After years - years
-detained by Greek Ship son ....</i></font>
+00:23:09,054 --> 00:23:11,807
+That could've been just a lack of discipline.
 
 292
-00:26:18,718 --> 00:26:21,120
-<font color=#FFFF00> <i> He dumped and left to die ....</i></font>
+00:23:13,017 --> 00:23:15,486
+But a man's hands do not lie.
 
 293
-00:26:22,405 --> 00:26:25,924
-<font color="#FFFF00"> <i> Then he discovered in agony
-by a Persian messenger .</i></font>
+00:23:15,728 --> 00:23:16,820
+They can reveal...
 
 294
-00:26:45,158 --> 00:26:48,596
-<font color=#FFFF00> <i> Artemisia swore he would return to Greece ....</i></font>
+00:23:17,062 --> 00:23:21,067
+...every imperfection
+and flaw in his character.
 
 295
-00:26:50,023 --> 00:26:52,182
-<font color="#FFFF00"> <i> When he can see the destruction.</i></font>
+00:23:22,026 --> 00:23:23,994
+You see, your hands
+are not rough enough...
 
 296
-00:27:03,125 --> 00:27:08,125
-<font color=#FFFF00> <i> She was treated , given clothes and a trained
-the best warriors the Persians ....</i></font>
+00:23:24,236 --> 00:23:26,284
+...to work the rigging of this ship.
 
 297
-00:27:11,072 --> 00:27:14,320
-<font color=#FFFF00> <i> As none can match the
-ability of fencing .</i></font>
+00:23:27,823 --> 00:23:30,576
+I know every single man beneath my lash.
 
 298
-00:27:42,132 --> 00:27:45,787
-<font color=#FFFF00> <i> great King Darius was impressed by his loyalty.</i></font>
+00:23:30,826 --> 00:23:34,626
+Can you explain to me
+how I don't know you?
 
 299
-00:27:46,043 --> 00:27:48,290
-<font color=#FFFF00> <i> And he immediately led his own army .</i></font>
+00:23:36,457 --> 00:23:38,676
+Forgive me, commander.
 
 300
-00:27:51,882 --> 00:27:55,281
-<font color=#FFFF00> <i> He has sold his soul to death.</i></font>
+00:23:41,378 --> 00:23:43,380
+Let me introduce myself.
 
 301
-00:27:56,665 --> 00:27:59,051
-<font color=#FFFF00> It is said
-I sold my soul to the Greek .</font>
+00:23:45,049 --> 00:23:45,766
+Seize the spy.
 
 302
-00:28:03,228 --> 00:28:04,448
-<font color=#FFFF00> What do you think ?</font>
+00:24:05,235 --> 00:24:07,033
+Coward.
 
 303
-00:28:04,623 --> 00:28:06,303
-<font color=#FFFF00> - I ?
-- Yes .</font>
+00:24:08,197 --> 00:24:09,949
+Storm is upon us.
 
 304
-00:28:06,430 --> 00:28:08,462
-You color=#FFFF00> <font future of this country .</font>
+00:24:12,785 --> 00:24:15,664
+It's just some mad Greek weather.
 
 305
-00:28:09,077 --> 00:28:10,574
-<font color=#FFFF00> I'm ready to fight .</font>
+00:24:28,217 --> 00:24:30,470
+- Themistokles.
+- Come.
 
 306
-00:28:13,846 --> 00:28:16,544
-<font color=#FFFF00> I love it.
-She reminded me of you.</font>
+00:24:34,014 --> 00:24:35,311
+Calisto.
 
 307
-00:28:17,542 --> 00:28:20,253
-<font color=#FFFF00> - We need a team as much as possible .
-- He's still young.</font>
+00:24:35,557 --> 00:24:38,151
+What is spoken here must not be repeated.
 
 308
-00:28:20,255 --> 00:28:22,493
-<font color=#FFFF00> Many younger children are able to defend
-our country , Dad.</font>
+00:24:38,602 --> 00:24:39,819
+Anywhere.
 
 309
-00:28:22,496 --> 00:28:24,066
-<font color=#FFFF00> Enough </ font>
+00:24:42,731 --> 00:24:45,951
+My son has not earned the right
+to sit at the table of combat veterans.
 
 310
-00:28:24,647 --> 00:28:27,394
-<font color=#FFFF00> 're leaders and we will not discuss them further .</font>
+00:24:46,193 --> 00:24:48,571
+- But you can trust him.
+- Very well.
 
 311
-00:28:31,556 --> 00:28:33,524
-<font color=#FFFF00> Themistokles , I've
-learn about your plans .. , ..</font>
+00:24:50,489 --> 00:24:52,332
+- Tell me.
+- A Greek woman...
 
 312
-00:28:33,527 --> 00:28:36,662
-<font color=#FFFF00> And daratku team will arrive on the second day .</font>
+00:24:52,574 --> 00:24:54,872
+...commands all of Xerxes' ships
+to the south.
 
 313
-00:28:36,710 --> 00:28:38,130
-<font color=#FFFF00> troops are needed.</font>
+00:24:56,286 --> 00:24:57,913
+Artemisia.
 
 314
-00:28:38,888 --> 00:28:40,630
-<font color=#FFFF00> I can ensure it .</font>
+00:24:58,914 --> 00:24:59,915
+I know of her.
 
 315
-00:28:43,318 --> 00:28:45,106
-<font color=#FFFF00> And there's bad news .</font>
+00:25:00,958 --> 00:25:03,882
+Artemisia is murderous by trade
+with true skill on the sea...
 
 316
-00:28:45,442 --> 00:28:48,429
-<font color=#FFFF00> Leonidas moved north towards the gates of hell .</font>
+00:25:04,128 --> 00:25:05,926
+...and she has thirst for vengeance.
 
 317
-00:28:50,126 --> 00:28:53,109
-<font color=#FFFF00> <i> Bad news ? With a team of sparta
-at the gates of hell ...</i></font>
+00:25:06,547 --> 00:25:08,049
+Rumors are her entire family...
 
 318
-00:28:53,225 --> 00:28:54,438
-<font color=#FFFF00> <i> we have ensured victory .</i></font>
+00:25:08,298 --> 00:25:10,596
+...was murdered
+by a squad of Greek hoplites.
 
 319
-00:28:54,441 --> 00:28:56,228
-<font color=#FFFF00> <i> If he leads the team.</i></font>
+00:25:11,677 --> 00:25:14,146
+I have heard all the stories.
 
 320
-00:28:56,273 --> 00:28:58,451
-<font color=#FFFF00> <i> between predictor and carnea ....</i></font>
+00:25:15,222 --> 00:25:17,850
+And the hoplites spared no one on that day.
 
 321
-00:28:58,458 --> 00:29:02,067
-<font color=#FFFF00> <i> Leonidas moving
-Thermopylae with only 300 soldiers.</i></font>
+00:25:44,334 --> 00:25:46,382
+<i>The story goes
+that they raped and murdered...</i>
 
 322
-00:29:03,080 --> 00:29:08,082
-<font color=#FFFF00> <i> Defence between Athens and maximum destruction ..</i></font>
+00:25:46,628 --> 00:25:48,096
+<i>...her entire family.</i>
 
 323
-00:29:08,573 --> 00:29:12,304
-<font color=#FFFF00> <i> Only Leonidas and 300 Spartan soldiers .</i></font>
+00:25:50,132 --> 00:25:53,056
+<i>And then they turned their attention
+towards her.</i>
 
 324
-00:29:16,701 --> 00:29:18,652
-<font color=#FFFF00> seasoned warrior I'll find them .</font>
+00:26:15,908 --> 00:26:19,412
+<i>After years of being kept in the bowels
+of a Greek slave ship...</i>
 
 325
-00:29:18,976 --> 00:29:20,909
-<font color=#FFFF00> Sorting chain of command
-between volunteers.</font>
+00:26:20,579 --> 00:26:23,128
+<i>...she was discarded and left for dead...</i>
 
 326
-00:29:21,413 --> 00:29:22,700
-<font color=#FFFF00> Good .</font>
+00:26:24,083 --> 00:26:26,677
+<i>...where she was found near death
+by a Persian emissary.</i>
 
 327
-00:29:22,776 --> 00:29:25,983
-<font color=#FFFF00> need time to teach strategies
-on these farmers .</font>
+00:26:47,898 --> 00:26:50,492
+<i>Artemisia vowed that day
+to return to Greece...</i>
 
 328
-00:29:26,687 --> 00:29:28,823
-<font color=#FFFF00> We gave them food ...</font>
+00:26:51,944 --> 00:26:53,662
+<i>...only when she could watch it burn.</i>
 
 329
-00:29:29,531 --> 00:29:30,963
-<font color=#FFFF00> and awareness.</font>
+00:27:05,249 --> 00:27:08,844
+<i>She was fed, clothed, trained
+by the finest warriors of the Persian empire...</i>
 
 330
-00:29:31,432 --> 00:29:32,666
-<font color=#FFFF00> Anything else?</font>
+00:27:12,923 --> 00:27:14,391
+<i>...until no match could be found...</i>
 
 331
-00:29:33,351 --> 00:29:35,363
-<font color=#FFFF00> been nice if they could account
-brandish swords .</font>
+00:27:14,633 --> 00:27:16,313
+<i>...for her skills and gift with the sword.</i>
 
 332
-00:29:38,122 --> 00:29:39,357
-<font color=#FFFF00> sacred to me.</font>
+00:27:44,079 --> 00:27:46,582
+<i>The great King Darius was impressed
+by her commitment.</i>
 
 333
-00:29:41,391 --> 00:29:42,369
-<font color=#FFFF00> sucks </ font>
+00:27:47,875 --> 00:27:50,094
+<i>And she quickly rose to command
+at his side.</i>
 
 334
-00:29:42,437 --> 00:29:44,073
-<font color=#FFFF00> dad know you're here ?</font>
+00:27:53,839 --> 00:27:55,466
+<i>She has sold her soul...</i>
 
 335
-00:29:44,735 --> 00:29:45,604
-<font color=#FFFF00> No, sir .</font>
+00:27:55,716 --> 00:27:57,184
+...to Death himself.
 
 336
-00:29:45,667 --> 00:29:47,610
-<font color=#FFFF00> And also shield the sword </ font>
+00:27:58,510 --> 00:28:00,854
+Well, some could say
+that I've sold mine to Greece.
 
 337
-00:29:47,825 --> 00:29:49,333
-<font color=#FFFF00> That 's atukku .</font>
+00:28:05,100 --> 00:28:06,101
+And what do you think?
 
 338
-00:29:49,876 --> 00:29:52,519
-My mother gave it to me <font color=#FFFF00> this morning.</font>
+00:28:06,351 --> 00:28:08,069
+- Me?
+- Yes.
 
 339
-00:29:53,040 --> 00:29:54,768
-<font color=#FFFF00> When he bless you ?</font>
+00:28:08,312 --> 00:28:10,189
+You are the future of this country.
 
 340
-00:29:55,215 --> 00:29:56,424
-<font color=#FFFF00> Yes , sir.</font>
+00:28:11,231 --> 00:28:12,608
+I'm ready to fight.
 
 341
-00:29:57,100 --> 00:29:58,955
-<font color=#FFFF00> He even sharpen your sword .</font>
+00:28:16,111 --> 00:28:18,580
+I like him. He reminds me of you.
 
 342
-00:30:01,121 --> 00:30:03,998
-<font color=#FFFF00> father complete surprise
-for our enemies tomorrow .</font>
+00:28:19,364 --> 00:28:20,035
+We will need...
 
 343
-00:30:04,157 --> 00:30:06,279
-<font color=#FFFF00> I choose to fight here .</font>
+00:28:20,282 --> 00:28:21,078
+...every last man.
 
 344
-00:30:06,323 --> 00:30:07,167
-<font color=#FFFF00> Now .</font>
+00:28:21,325 --> 00:28:22,417
+He is still just a boy.
 
 345
-00:30:09,195 --> 00:30:10,914
-<font color=#FFFF00> Welcome Kapalku .</font>
+00:28:22,659 --> 00:28:24,002
+Much younger...
 
 346
-00:30:11,919 --> 00:30:13,300
-<font color=#FFFF00> 're going to fight there.</font>
+00:28:24,244 --> 00:28:26,042
+- ...have defended our country.
+- Enough!
 
 347
-00:30:13,507 --> 00:30:14,677
-<font color=#FFFF00> Yes , sir.</font>
+00:28:26,496 --> 00:28:29,249
+You are a dreamer
+and will speak of this no more.
 
 348
-00:30:18,541 --> 00:30:20,395
-<font color=#FFFF00> number of ships we have 50 .</font>
+00:28:33,086 --> 00:28:35,088
+Themistokles, I've set your plan in motion.
 
 349
-00:30:20,422 --> 00:30:22,919
-<font color=#FFFF00> Persian fleet amounted to nearly thousands of Ships.</font>
+00:28:35,339 --> 00:28:38,263
+And my land force
+will be assembled by the second day.
 
 350
-00:30:23,014 --> 00:30:24,616
-<font color=#FFFF00> we ship handful .</font>
+00:28:38,508 --> 00:28:41,352
+You will be needed.
+I can assure you of that.
 
 351
-00:30:24,703 --> 00:30:26,745
-Ships color=#FFFF00> <font we not stay
-Persian fleet of giant ships .</font>
+00:28:45,140 --> 00:28:47,063
+And there is bad news.
 
 352
-00:30:26,779 --> 00:30:30,124
-<font color=#FFFF00> We have the advantage , speed and cunning .</font>
+00:28:47,309 --> 00:28:50,279
+Leonidas has marched north
+to the Hot Gates.
 
 353
-00:30:30,607 --> 00:30:33,581
-<font color=#FFFF00> another city just to send some ships .</font>
+00:28:52,064 --> 00:28:54,032
+<i>Bad news? With the Spartans...</i>
 
 354
-00:30:33,603 --> 00:30:36,499
-<font color=#FFFF00> course , the rest will be sent to Athens.</font>
+00:28:54,274 --> 00:28:58,120
+<i>- ...at the Hot Gates, our victory is assured.</i>
+<i>- If the army were with him.</i>
 
 355
-00:30:36,769 --> 00:30:39,432
-<font color=#FFFF00> We got reports of a small fleet of Persia ....</font>
+00:28:59,112 --> 00:29:01,035
+<i>But between the Oracle and the Carneia...</i>
 
 356
-00:30:39,435 --> 00:30:42,531
-<font color=#FFFF00> .... Congratulations from storms across the Straits .</font>
+00:29:01,281 --> 00:29:03,909
+<i>...Leonidas has marched to Thermopylae
+with just 300 men.</i>
 
 357
-00:30:42,690 --> 00:30:45,070
-<font color=#FFFF00> If the weather is good , we attack them after dawn .</font>
+00:29:05,077 --> 00:29:08,547
+<i>So the only thing standing between Athens...</i>
 
 358
-00:30:46,913 --> 00:30:48,247
-<font color=#FFFF00> early Greek victory .</font>
+00:29:08,789 --> 00:29:10,291
+<i>...and total annihilation...</i>
 
 359
-00:30:48,251 --> 00:30:49,962
-<font color=#FFFF00> The gods give us the opportunity to ....</font>
+00:29:11,333 --> 00:29:13,927
+<i>...is Leonidas and 300 Spartans.</i>
 
 360
-00:30:49,965 --> 00:30:52,333
-<font color=#FFFF00> Persian Maim and strengthen the spirit of Greece.</font>
+00:29:18,757 --> 00:29:20,851
+I will search out the veterans among them.
 
 361
-00:30:54,130 --> 00:30:55,247
-<font color=#FFFF00> Removal seductive .</font>
+00:29:21,093 --> 00:29:23,846
+- Establish some order among the volunteers.
+- Good.
 
 362
-00:30:55,564 --> 00:30:57,608
-<font color=#FFFF00> We set the rules of the battle plan .</font>
+00:29:24,554 --> 00:29:27,683
+There's little time
+to teach these farmhands strategy.
 
 363
-00:30:58,057 --> 00:31:01,253
-<font color=#FFFF00> As the sun sank today,
-we headed for the main Persian fleet .</font>
+00:29:28,267 --> 00:29:30,315
+Just keep them well fed...
 
 364
-00:31:01,258 --> 00:31:04,321
-<font color=#FFFF00> We attack them in open water
-without limitation the battlefield.</font>
+00:29:31,270 --> 00:29:32,647
+...and sober.
 
 365
-00:31:04,517 --> 00:31:08,755
-<font color=#FFFF00> assault ship with thousands of
-Our fleet now same name by committing suicide .</font>
+00:29:33,313 --> 00:29:34,735
+Anything else?
 
 366
-00:31:09,975 --> 00:31:11,994
-<font color=#FFFF00> That fits with my plans .</font>
+00:29:35,274 --> 00:29:37,197
+Wouldn't hurt if they could
+swing a sword.
 
 367
-00:31:16,110 --> 00:31:18,712
-<font color=#FFFF00> Look at their Marine forces .</font>
+00:29:40,112 --> 00:29:41,830
+Well, I'll be damned.
 
 368
-00:31:19,553 --> 00:31:22,173
-<font color=#FFFF00> their fleet only a small threat .</font>
+00:29:43,282 --> 00:29:44,283
+Shit.
 
 369
-00:31:22,697 --> 00:31:25,025
-<font color=#FFFF00> I need reps, Artaphernes .</font>
+00:29:44,533 --> 00:29:47,457
+- Does your father know that you're here?
+- No, sir.
 
 370
-00:31:25,322 --> 00:31:29,679
-<font color=#FFFF00> Anyone who can prove
-greatness will be wakilku .</font>
+00:29:47,703 --> 00:29:49,751
+And this shield and sword?
 
 371
-00:31:30,392 --> 00:31:33,707
-<font color=#FFFF00> Bandari General to lead the first attack .</font>
+00:29:49,997 --> 00:29:51,499
+My grandfather's.
 
 372
-00:31:33,860 --> 00:31:34,698
-<font color=#FFFF00> Bandari </ font>
+00:29:51,748 --> 00:29:54,547
+My mother entrusted them to me
+this morning.
 
 373
-00:31:38,033 --> 00:31:38,872
-<font color=#FFFF00> Commander .</font>
+00:29:55,043 --> 00:29:58,343
+- When she gave you her blessing?
+- Yes, sir.
 
 374
-00:31:39,445 --> 00:31:41,362
-I invite you color=#FFFF00> <font lead
-Our first attack .</font>
+00:29:58,964 --> 00:30:01,217
+With a sharp blade, no less.
 
 375
-00:31:41,584 --> 00:31:44,694
-<font color=#FFFF00> guarantee what I can
-you will give me victory </ font>
+00:30:03,010 --> 00:30:05,854
+Your father is preparing a surprise
+for our enemy tomorrow.
 
 376
-00:31:44,790 --> 00:31:46,613
-<font color=#FFFF00> I will win or die .</font>
+00:30:06,096 --> 00:30:09,441
+I choose to fight here. Now.
 
 377
-00:31:47,287 --> 00:31:48,250
-<font color=#FFFF00> Good .</font>
+00:30:11,518 --> 00:30:13,270
+Come aboard my ship.
 
 378
-00:31:48,724 --> 00:31:49,950
-<font color=#FFFF00> And what arahanmu </ font>
+00:30:13,895 --> 00:30:15,272
+That is where you will fight.
 
 379
-00:31:50,947 --> 00:31:54,813
-<font color=#FFFF00> shame greek team
-and destroy their ship .</font>
+00:30:15,522 --> 00:30:16,774
+Yes, sir.
 
 380
-00:31:55,483 --> 00:31:57,972
-<font color=#FFFF00> They all will I destroy .</font>
+00:30:21,069 --> 00:30:22,549
+We've just over 50 ships.
 
 381
-00:32:08,811 --> 00:32:10,351
-<font color=#FFFF00> Brothers .</font>
+00:30:22,571 --> 00:30:25,324
+Persian forces reported a number
+in the thousands.
 
 382
-00:32:11,104 --> 00:32:12,823
-Realize color=#FFFF00> <font .</font>
+00:30:25,574 --> 00:30:28,934
+- Those ships appear hardly seaworthy.
+- Nothing like the monster ships...
 
 383
-00:32:14,709 --> 00:32:16,450
-<font color=#FFFF00> Look deep into your soul .</font>
+00:30:29,161 --> 00:30:32,461
+- ...of the Persian fleet.
+- We have the advantage. Speed, maneuverability.
 
 384
-00:32:20,600 --> 00:32:22,986
-<font color=#FFFF00> Today will test your courage .</font>
+00:30:32,748 --> 00:30:36,469
+The rest of the city-states have sent
+anywhere from a handful to a single ship.
 
 385
-00:32:27,625 --> 00:32:29,654
-<font color=#FFFF00> <i> Even in the middle of the battle ....</i></font>
+00:30:36,710 --> 00:30:40,010
+- Of course, Athens supplied the balance.
+- We have report...
 
 386
-00:32:30,924 --> 00:32:33,407
-<font color=#FFFF00> <i> You need a reason to keep fighting ....</i></font>
+00:30:40,255 --> 00:30:44,260
+...a small advance force of Persian ships have
+taken refuge from the storm across the strait.
 
 387
-00:32:35,000 --> 00:32:38,000
-<font color=#FFFF00> <i> If you think going to give up ....</i></font>
+00:30:44,551 --> 00:30:46,849
+If the weather breaks,
+we could hit them at dawn.
 
 388
-00:32:38,054 --> 00:32:40,198
-<font color=#FFFF00> 's only one thing you have to do ....</font>
+00:30:48,722 --> 00:30:49,769
+An early Greek victory.
 
 389
-00:32:41,736 --> 00:32:44,790
-<font color=#FFFF00> By looking good man who fought at your side .</font>
+00:30:50,015 --> 00:30:51,813
+The gods have given us an opportunity...
 
 390
-00:32:46,592 --> 00:32:48,876
-<font color=#FFFF00> This "excuse " to fight .</font>
+00:30:52,059 --> 00:30:54,027
+...to wound the Persians,
+strengthen Greek morale.
 
 391
-00:32:49,606 --> 00:32:52,328
-This color=#FFFF00> <font brothers in arms .</font>
+00:30:56,188 --> 00:30:57,314
+A tempting distraction.
 
 392
-00:32:53,192 --> 00:32:54,978
-<font color=#FFFF00> <i> bond that can not be separated ....</i></font>
+00:30:57,564 --> 00:30:59,658
+But we'll stick to the battle plan.
 
 393
-00:32:54,997 --> 00:32:57,669
-<font color=#FFFF00> <i> stronger with great battles .</i></font>
+00:30:59,900 --> 00:31:03,029
+Today at sundown, we will sail out
+to meet the main Persian fleet.
 
 394
-00:32:59,194 --> 00:33:03,101
-<font color=#FFFF00> <i> You never this close compared with
-those who fight with you.</i></font>
+00:31:03,278 --> 00:31:06,327
+We'll attack in the open water
+with no shore to narrow the battle.
 
 395
-00:33:05,118 --> 00:33:07,242
-<font color=#FFFF00> <i> no more noble reason ....</i></font>
+00:31:06,573 --> 00:31:08,653
+To attack a force of over 1000 ships...
 
 396
-00:33:07,341 --> 00:33:10,422
-<font color=#FFFF00> <i> Besides fighting for their
-willing to sacrifice for you .</i></font>
+00:31:08,658 --> 00:31:10,456
+...with our meager force is suicide.
 
 397
-00:33:12,742 --> 00:33:14,854
-Strive color=#FFFF00> <font full force today.</font>
+00:31:11,995 --> 00:31:13,963
+Such is my plan.
 
 398
-00:33:15,890 --> 00:33:17,836
-<font color=#FFFF00> Fight for your brothers in arms </ font>
+00:31:18,126 --> 00:31:20,720
+Look at their excuse for a navy.
 
 399
-00:33:19,409 --> 00:33:21,197
-<font color=#FFFF00> Fight for your family </ font>
+00:31:21,588 --> 00:31:23,966
+Their ships are of little threat.
 
 400
-00:33:22,207 --> 00:33:24,547
-<font color=#FFFF00> Above all, strive for the Greek </ font>
+00:31:24,841 --> 00:31:27,094
+I need a second in command, Artaphernes.
 
 401
-00:33:24,831 --> 00:33:25,837
-<font Greek color=#FFFF00> </ font>
+00:31:27,344 --> 00:31:31,349
+And whoever proves their excellence
+will earn a place beside me.
 
 402
-00:33:26,935 --> 00:33:28,008
-<font color=#FFFF00> Yes</font>
+00:31:32,766 --> 00:31:35,610
+General Bandari has offered
+to lead the first attack.
 
 403
-00:33:30,131 --> 00:33:33,366
-<font color=#FFFF00> There is only one reason to keep
-when the battle began.</font>
+00:31:35,852 --> 00:31:37,069
+Bandari.
 
 404
-00:33:33,619 --> 00:33:34,662
-<font color=#FFFF00> What is it?</font>
+00:31:39,856 --> 00:31:40,948
+Commander.
 
 405
-00:33:35,399 --> 00:33:37,203
-<font color=#FFFF00> Do not killed on the first day .</font>
+00:31:41,191 --> 00:31:43,114
+If I let you lead our first offensive...
 
 406
-00:33:38,915 --> 00:33:40,983
-<font color=#FFFF00> That goes for all of you.</font>
+00:31:43,360 --> 00:31:46,409
+...what guarantee do I have
+that you'll bring me a quick victory?
 
 407
-00:34:13,197 --> 00:34:15,472
-<font color=#FFFF00> strong Persian ships in the front ....</font>
+00:31:46,655 --> 00:31:48,578
+My word and my life.
 
 408
-00:34:15,596 --> 00:34:17,869
-<font color=#FFFF00> But the middle weak </ font>
+00:31:49,157 --> 00:31:50,158
+Good.
 
 409
-00:34:17,936 --> 00:34:19,857
-We color=#FFFF00> <font attack on the part </ font>
+00:31:50,700 --> 00:31:52,247
+My rules of engagement?
 
 410
-00:34:30,818 --> 00:34:31,873
-<font color=#FFFF00> Now!</font>
+00:31:52,869 --> 00:31:56,544
+Humiliate the Greeks
+and lay waste to their tiny ships.
 
 411
-00:34:53,361 --> 00:34:54,770
-<font color=#FFFF00> Attack !</font>
+00:31:57,541 --> 00:31:59,964
+They'll be dead to the last man.
 
 412
-00:35:22,924 --> 00:35:24,080
-<font color=#FFFF00> Crush them !</font>
+00:32:10,595 --> 00:32:12,222
+My brothers.
 
 413
-00:35:35,336 --> 00:35:37,215
-<font color=#FFFF00> Archer , now!</font>
+00:32:12,722 --> 00:32:14,724
+Steady your hearts.
 
 414
-00:35:47,351 --> 00:35:48,547
-<font color=#FFFF00> back!</font>
+00:32:16,560 --> 00:32:18,233
+Look deep into your souls.
 
 415
-00:35:49,308 --> 00:35:50,141
-<font color=#FFFF00> Now!</font>
+00:32:22,482 --> 00:32:25,577
+For your mettle is to be tested this day.
 
 416
-00:35:57,479 --> 00:35:58,697
-<font color=#FFFF00> Crush them !</font>
+00:32:29,406 --> 00:32:31,659
+<i>If in the heat of battle...</i>
 
 417
-00:36:53,899 --> 00:36:56,658
-<font color=#FFFF00> enemy Scouts are so creative .</font>
+00:32:33,034 --> 00:32:35,708
+<i>you need a reason to fight on...</i>
 
 418
-00:36:56,708 --> 00:36:59,316
-<font color=#FFFF00> their defensive circle
-no room for us to attack .</font>
+00:32:36,830 --> 00:32:39,549
+<i>...an idea for which you will give up...</i>
 
 419
-00:36:59,842 --> 00:37:01,152
-<font color=#FFFF00> We lost .</font>
+00:32:40,167 --> 00:32:42,420
+...all that you will ever have...
 
 420
-00:37:01,292 --> 00:37:02,990
-<font color=#FFFF00> No, you're a loser .</font>
+00:32:43,628 --> 00:32:46,598
+...you need only to look at the man
+who fights at your side.
 
 421
-00:37:09,703 --> 00:37:10,782
-<font color=#FFFF00> Backward.</font>
+00:32:48,550 --> 00:32:51,053
+This is the "why" of battle.
 
 422
-00:37:11,484 --> 00:37:13,246
-<font color=#FFFF00> Let them win today .</font>
+00:32:51,303 --> 00:32:54,102
+This is the brotherhood of men-at-arms.
 
 423
-00:37:13,409 --> 00:37:16,243
-<font color=#FFFF00> I'm tired of kekalahanmu , Bandari .</font>
+00:32:55,140 --> 00:32:56,608
+<i>An unbreakable bond...</i>
 
 424
-00:37:21,725 --> 00:37:24,017
-<font color=#FFFF00> these cuts will not be kubiarkan melambatku .</font>
+00:32:56,850 --> 00:32:59,854
+<i>...made stronger by the crucible of combat.</i>
 
 425
-00:37:25,411 --> 00:37:26,593
-<font color=#FFFF00> I trust you .</font>
+00:33:01,313 --> 00:33:05,068
+<i>You will never be closer than with those
+who you shed your blood with.</i>
 
 426
-00:37:26,596 --> 00:37:28,958
-<font color=#FFFF00> sword will be ready tomorrow morning.</font>
+00:33:07,027 --> 00:33:09,121
+<i>For there is no nobler cause...</i>
 
 427
-00:37:29,170 --> 00:37:32,755
-<font color=#FFFF00> Good, tomorrow you will be fighting with your father.</font>
+00:33:09,362 --> 00:33:12,707
+<i>...than to fight for those
+who will lay down their life for you.</i>
 
 428
-00:37:34,749 --> 00:37:36,438
-<font color=#FFFF00> is not too bad for a bunch of farmers.</font>
+00:33:14,701 --> 00:33:17,124
+So you fight strong today.
 
 429
-00:37:36,447 --> 00:37:39,330
-<font color=#FFFF00> And poet and sculptor sculpture .</font>
+00:33:18,246 --> 00:33:20,340
+You fight for your brothers.
 
 430
-00:37:39,681 --> 00:37:41,473
-<font color=#FFFF00> group never trained ....</font>
+00:33:21,625 --> 00:33:23,673
+Fight for your families.
 
 431
-00:37:41,570 --> 00:37:43,954
-<font color=#FFFF00> able to defeat the enemy called great .</font>
+00:33:24,461 --> 00:33:26,463
+Most of all, you fight for Greece!
 
 432
-00:37:46,243 --> 00:37:49,576
-<font color=#FFFF00> We need full strength
-to battle tomorrow .</font>
+00:33:26,713 --> 00:33:27,680
+Greece!
 
 433
-00:37:50,224 --> 00:37:52,290
-<font color=#FFFF00> How much longer can we stop them ?</font>
+00:33:28,798 --> 00:33:29,799
+Yeah!
 
 434
-00:37:55,327 --> 00:37:57,487
-<font color=#FFFF00> If my plans work ....</font>
+00:33:32,010 --> 00:33:35,310
+And there is only one thing to make sure of
+when the fighting starts.
 
 435
-00:37:59,363 --> 00:38:02,115
-<font color=#FFFF00> long enough for Sparta
-want to join the Greek .</font>
+00:33:35,555 --> 00:33:36,602
+What's that?
 
 436
-00:38:03,564 --> 00:38:04,639
-<font color=#FFFF00> all !</font>
+00:33:37,682 --> 00:33:39,434
+Don't get killed on the first day.
 
 437
-00:38:05,588 --> 00:38:07,549
-<font color=#FFFF00> Who wants to drink wine with me?</font>
+00:33:41,019 --> 00:33:43,238
+That goes for the rest of you.
 
 438
-00:38:20,748 --> 00:38:22,090
-<font color=#FFFF00> Report .</font>
+00:34:14,928 --> 00:34:15,679
+Persian ships...
 
 439
-00:38:22,095 --> 00:38:24,151
-<font color=#FFFF00> We are still calculating losses.</font>
+00:34:15,929 --> 00:34:17,431
+...are strong at the front.
 
 440
-00:38:24,429 --> 00:38:30,751
-<font color=#FFFF00> You have to understand, this is very difficult,
-Sea conditions and darkness ....</font>
+00:34:17,681 --> 00:34:18,682
+But they are weak...
 
 441
-00:38:30,754 --> 00:38:31,731
-<font color=#FFFF00> hard earned ....</font>
+00:34:18,932 --> 00:34:20,354
+...in the middle.
 
 442
-00:38:42,675 --> 00:38:43,748
-The report color=#FFFF00> <font </ font>
+00:34:20,600 --> 00:34:22,443
+We attack them there.
 
 443
-00:38:44,682 --> 00:38:46,073
-<font color=#FFFF00> 75 Shipwreck .</font>
+00:34:32,696 --> 00:34:34,369
+Now!
 
 444
-00:38:46,076 --> 00:38:47,860
-<font color=#FFFF00> 30 damaged but can be repaired .</font>
+00:34:55,385 --> 00:34:56,477
+Attack!
 
 445
-00:38:47,862 --> 00:38:50,993
-<font color=#FFFF00> 20 ships to return after a few
-weeks to be repaired in a safe berth .</font>
+00:35:24,664 --> 00:35:26,041
+Ram them!
 
 446
-00:38:54,841 --> 00:38:57,859
-<font color=#FFFF00> the Greek fleet commander named Themistokles .</font>
+00:35:36,968 --> 00:35:40,063
+Archers, now! Now!
 
 447
-00:38:57,862 --> 00:39:00,297
-<font color=#FFFF00> Yes , she Gen. Athens .</font>
+00:35:49,314 --> 00:35:50,782
+Reverse!
 
 448
-00:39:01,106 --> 00:39:05,404
-<font color=#FFFF00> Apparently she did not stand a great king Darius .</font>
+00:35:51,107 --> 00:35:52,529
+Now!
 
 449
-00:39:18,295 --> 00:39:19,507
-<font color=#FFFF00> <i> </ i ></font>
+00:35:59,324 --> 00:36:00,701
+Go through them!
 
 450
-00:39:34,715 --> 00:39:38,671
-<font color=#FFFF00> Themistokles great notoriety on the battlefield.</font>
+00:36:55,588 --> 00:36:56,909
+The enemy's tactics...
 
 451
-00:39:40,398 --> 00:39:42,400
-<font color=#FFFF00> More than can be
-I convey to you.</font>
+00:36:57,090 --> 00:36:58,467
+...are creative.
 
 452
-00:39:44,022 --> 00:39:47,031
-<font arahanku color=#FFFF00> Do you feel ridiculous ?</font>
+00:36:58,717 --> 00:37:01,140
+The defensive circle
+leaves no front to assault.
 
 453
-00:39:47,484 --> 00:39:50,420
-<font color=#FFFF00> Are Winning is so hard to be reaped ?</font>
+00:37:01,720 --> 00:37:03,097
+We are losing.
 
 454
-00:39:50,423 --> 00:39:53,811
-<font color=#FFFF00> Kekecewaanmu night stands to reason .</font>
+00:37:03,346 --> 00:37:05,019
+No, you are losing.
 
 455
-00:39:55,376 --> 00:39:57,331
-<font color=#FFFF00> frustration.</font>
+00:37:11,479 --> 00:37:12,856
+Pull back.
 
 456
-00:39:58,560 --> 00:40:01,263
-<font color=#FFFF00> frustration is not about defeat .</font>
+00:37:13,356 --> 00:37:15,029
+Let them have this day.
 
 457
-00:40:01,483 --> 00:40:06,213
-<font color=#FFFF00> Total Ship damaged and boy
-no means dead to me , no.</font>
+00:37:15,650 --> 00:37:18,699
+I'm bored with your failures, Bandari.
 
 458
-00:40:06,572 --> 00:40:09,315
-<font color=#FFFF00> frustration ....</font>
+00:37:23,867 --> 00:37:25,915
+I'll not let this wound slow me.
 
 459
-00:40:11,934 --> 00:40:13,314
-<font color=#FFFF00> .... are they .</font>
+00:37:26,161 --> 00:37:28,414
+Heh. Somehow I believe you.
 
 460
-00:40:15,046 --> 00:40:18,360
-<font color=#FFFF00> But I stood between 10 000 troops ..</font>
+00:37:28,663 --> 00:37:30,882
+My blade will be sharp and ready
+by the morning.
 
 461
-00:40:18,669 --> 00:40:19,996
-<font color=#FFFF00> .... I'm still alone .</font>
+00:37:31,875 --> 00:37:34,549
+Good. Tomorrow you will fight
+alongside your father.
 
 462
-00:40:22,311 --> 00:40:25,522
-<font color=#FFFF00> I'm looking for someone to mendampingiku .</font>
+00:37:36,629 --> 00:37:37,630
+Not bad...
 
 463
-00:40:25,761 --> 00:40:26,886
-<font color=#FFFF00> Who can I trust.</font>
+00:37:37,881 --> 00:37:41,351
+- ...for a bunch of farmers.
+- And poets and sculptors.
 
 464
-00:40:32,903 --> 00:40:35,294
-<font color=#FFFF00> Tell me , General Kashani .</font>
+00:37:41,593 --> 00:37:43,061
+Who'd have known untrained men...
 
 465
-00:40:35,877 --> 00:40:37,746
-<font color=#FFFF00> Are you that person?</font>
+00:37:43,303 --> 00:37:46,102
+...would do so well against
+such a considerable adversary?
 
 466
-00:40:39,541 --> 00:40:42,901
-<font color=#FFFF00> you will achieve your victory
-when this day is over .</font>
+00:37:48,475 --> 00:37:51,729
+We're going to need all of our strength
+for tomorrow's fight.
 
 467
-00:40:43,314 --> 00:40:45,316
-<font color=#FFFF00> I'll sure.</font>
+00:37:52,353 --> 00:37:54,572
+How long do you think we can hold them?
 
 468
-00:40:46,715 --> 00:40:48,309
-<font color=#FFFF00> I hope so .</font>
+00:37:57,525 --> 00:37:59,778
+If my plan is to work...
 
 469
-00:42:20,381 --> 00:42:22,607
-<font color=#FFFF00> Fast Forward </ font>
+00:38:01,613 --> 00:38:04,662
+...long enough for the Spartans
+to unite Greece.
 
 470
-00:42:29,607 --> 00:42:33,330
-<font color=#FFFF00> Now !</font>
+00:38:05,950 --> 00:38:07,247
+Men!
 
 471
-00:42:56,695 --> 00:42:58,617
-<font color=#FFFF00> Never lose them !</font>
+00:38:07,786 --> 00:38:09,147
+Who will share their wine with me?
 
 472
-00:43:13,412 --> 00:43:14,864
-<font color=#FFFF00> Greek fleet back.</font>
+00:38:22,967 --> 00:38:24,059
+Report.
 
 473
-00:43:14,990 --> 00:43:17,197
-<font color=#FFFF00> He managed fishing rods
-to the place he wanted.</font>
+00:38:24,302 --> 00:38:26,100
+We are still tallying the losses.
 
 474
-00:43:17,431 --> 00:43:19,244
-<font color=#FFFF00> Kashani great tactician .</font>
+00:38:26,721 --> 00:38:29,315
+But you must understand,
+it is extremely difficult...
 
 475
-00:43:19,919 --> 00:43:22,196
-<font color=#FFFF00> I say about Themistokles .</font>
+00:38:29,557 --> 00:38:31,901
+...given the sea and the darkness...
 
 476
-00:43:32,472 --> 00:43:33,537
-<font color=#FFFF00> Stone Edge </ font>
+00:38:32,143 --> 00:38:33,736
+...to get an accurate...
 
 477
-00:43:36,708 --> 00:43:38,245
-<font color=#FFFF00> Stop ! Stop !</font>
+00:38:44,948 --> 00:38:46,074
+Report?
 
 478
-00:43:38,516 --> 00:43:39,718
-<font color=#FFFF00> Stop !</font>
+00:38:46,699 --> 00:38:48,179
+Seventy-five ships lost.
 
 479
-00:43:40,624 --> 00:43:41,938
-<font color=#FFFF00> Prepare yourselves!</font>
+00:38:48,368 --> 00:38:49,745
+Thirty damaged beyond repair.
 
 480
-00:46:28,075 --> 00:46:29,538
-<font color=#FFFF00> What are you doing here ?</font>
+00:38:49,994 --> 00:38:53,043
+Twenty could return with a few weeks' work
+in a safe harbor.
 
 481
-00:46:29,553 --> 00:46:33,350
-<font color=#FFFF00> Responsibility man
-protect family and country.</font>
+00:38:57,210 --> 00:39:00,134
+The commander of the Greek force
+is named Themistokles.
 
 482
-00:46:33,394 --> 00:46:34,755
-<font color=#FFFF00> Who said that to you ?</font>
+00:39:00,380 --> 00:39:02,382
+Yes, he is an Athenian general.
 
 483
-00:46:34,824 --> 00:46:35,979
-My father color=#FFFF00> <font .</font>
+00:39:03,216 --> 00:39:05,059
+He's rumored to have loosed the arrow...
 
 484
-00:47:38,643 --> 00:47:42,333
-<font color=#FFFF00> You see how her elegant
-Themistokles launched siasatnya </ font>
+00:39:05,301 --> 00:39:07,850
+...that felled the great King Darius himself.
 
 485
-00:47:43,336 --> 00:47:45,601
-<font color=#FFFF00> Why is it so hard for the victory achieved ?</font>
+00:39:20,400 --> 00:39:22,368
+No!
 
 486
-00:47:45,717 --> 00:47:47,852
-<font color=#FFFF00> - How to fix it my way ?
-- Shut up .</font>
+00:39:37,000 --> 00:39:41,005
+This Themistokles has shown himself
+to be quite brilliant in battle.
 
 487
-00:47:51,124 --> 00:47:53,481
-<font color=#FFFF00> You 'll send a message to me .</font>
+00:39:42,630 --> 00:39:44,724
+Which is more than I can say for any of you.
 
 488
-00:47:54,716 --> 00:47:56,443
-<font color=#FFFF00> Now they will fear us !</font>
+00:39:46,092 --> 00:39:49,312
+Do you gentlemen find my command
+unreasonable?
 
 489
-00:47:56,502 --> 00:47:59,482
-<font color=#FFFF00> Now they would be afraid of the Greek soldiers </ font>
+00:39:49,762 --> 00:39:52,311
+Is it too much to ask for victory?
 
 490
-00:48:01,644 --> 00:48:02,674
-<font color=#FFFF00> He's right !</font>
+00:39:52,557 --> 00:39:54,317
+Your disappointment in yesterday's losses...
 
 491
-00:48:03,216 --> 00:48:05,233
-<font color=#FFFF00> Fear Greek army </ font>
+00:39:54,559 --> 00:39:56,152
+...is warranted.
 
 492
-00:48:05,569 --> 00:48:06,523
-<font color=#FFFF00> Fear sword </ font>
+00:39:57,604 --> 00:39:59,606
+My disappointment.
 
 493
-00:48:06,879 --> 00:48:08,288
-<font color=#FFFF00> armor </ font>
+00:40:00,940 --> 00:40:03,363
+My disappointment is not with my losses.
 
 494
-00:48:08,607 --> 00:48:10,937
-<font color=#FFFF00> Fear on love
-the country greece </ font>
+00:40:03,610 --> 00:40:07,240
+The meager number of damaged ships
+and dead slaves means nothing to me.
 
 495
-00:48:11,405 --> 00:48:12,861
-<font color=#FFFF00> top of that ....</font>
+00:40:07,488 --> 00:40:11,288
+No, my disappointment...
 
 496
-00:48:13,575 --> 00:48:15,234
-<font color=#FFFF00> Fear of Independence </ font>
+00:40:13,828 --> 00:40:15,546
+...is in these men.
 
 497
-00:48:15,275 --> 00:48:16,323
-<font color=#FFFF00> Yes</font>
+00:40:16,831 --> 00:40:17,832
+For though I stand...
 
 498
-00:48:17,854 --> 00:48:19,147
-<font color=#FFFF00> Yes</font>
+00:40:18,082 --> 00:40:20,176
+...among 10,000...
 
 499
-00:48:19,348 --> 00:48:20,330
-<font color=#FFFF00> Yes</font>
+00:40:20,501 --> 00:40:21,969
+...I am alone.
 
 500
-00:48:21,221 --> 00:48:22,792
-<font color=#FFFF00> You do not scold the young .</font>
+00:40:24,047 --> 00:40:27,426
+I long for a soul
+who would stand by my side.
 
 501
-00:48:23,470 --> 00:48:24,820
-<font color=#FFFF00> He was under Komandoku .</font>
+00:40:27,675 --> 00:40:28,847
+Who I could trust.
 
 502
-00:48:25,037 --> 00:48:28,088
-<font color=#FFFF00> anger kulimpahkan only my enemies .</font>
+00:40:34,891 --> 00:40:37,189
+Tell me, General Kashani.
 
 503
-00:48:36,352 --> 00:48:37,787
-<font color=#FFFF00> Themistokles .</font>
+00:40:37,810 --> 00:40:39,653
+Are you that man?
 
 504
-00:48:58,272 --> 00:49:02,149
-<font color=#FFFF00> Artemisia ship docked in neutral waters .</font>
+00:40:41,522 --> 00:40:44,776
+You will taste your victory by the day's end.
 
 505
-00:49:02,155 --> 00:49:04,002
-<font color=#FFFF00> He wants to meet with Themistokles .</font>
+00:40:45,234 --> 00:40:47,578
+I will make certain of it.
 
 506
-00:49:04,032 --> 00:49:06,417
-<font color=#FFFF00> How can you guarantee that
-she will return safely ?</font>
+00:40:48,821 --> 00:40:50,619
+I hope so.
 
 507
-00:49:06,439 --> 00:49:09,754
-<font color=#FFFF00> Win , A - the only honor for Artemisia now ....</font>
+00:42:22,206 --> 00:42:24,379
+Advance!
 
 508
-00:49:09,819 --> 00:49:13,355
-<font color=#FFFF00> When he saw the fleet you
-shattered ...</font>
+00:42:31,507 --> 00:42:35,057
+Now!
 
 509
-00:49:13,361 --> 00:49:17,585
-<font color=#FFFF00> sink to the bottom of the Aegean
-and he can see you ....</font>
+00:42:58,743 --> 00:43:01,041
+Don't lose sight of them.
 
 510
-00:49:17,821 --> 00:49:20,668
-Glued color=#FFFF00> <font kapalmu pole with his sword ....</font>
+00:43:15,384 --> 00:43:16,510
+The Greeks are retreating.
 
 511
-00:49:20,858 --> 00:49:23,684
-<font color=#FFFF00> ... when you're immersed in water depth .</font>
+00:43:16,761 --> 00:43:19,230
+He's got him right where he wants him.
 
 512
-00:49:28,805 --> 00:49:30,960
-<font color=#FFFF00> Why do not you say since the beginning of </ font>
+00:43:19,472 --> 00:43:21,349
+Kashani is a fine tactician.
 
 513
-00:49:31,714 --> 00:49:38,745
-...
+00:43:21,974 --> 00:43:24,648
+I was speaking of Themistokles.
 
 514
-00:49:58,919 --> 00:50:01,513
-<font color=#FFFF00> Welcome aboard sederhanaku .</font>
+00:43:34,487 --> 00:43:35,534
+Rocks!
 
 515
-00:50:01,956 --> 00:50:04,462
-<font color=#FFFF00> We are honored by Your presence .</font>
+00:43:38,699 --> 00:43:40,201
+Stop, stop!
 
 516
-00:50:06,768 --> 00:50:08,887
-<font color=#FFFF00> Kapalmu and yourself ....</font>
+00:43:40,451 --> 00:43:41,748
+Stop!
 
 517
-00:50:09,717 --> 00:50:11,158
-<font color=#FFFF00> .... deep enough to hurt .</font>
+00:43:42,453 --> 00:43:44,171
+Brace yourselves!
 
 518
-00:50:15,995 --> 00:50:17,814
-<font color=#FFFF00> You praise .</font>
+00:46:30,621 --> 00:46:31,597
+What are you doing here?
 
 519
-00:50:19,722 --> 00:50:22,774
-<font color=#FFFF00> Follow along with us , a lot of things to be discussed .</font>
+00:46:31,622 --> 00:46:35,126
+A man's responsibility
+is to protect his family and his nation.
 
 520
-00:50:24,487 --> 00:50:27,144
-<font color=#FFFF00> you believe that the descendants of the Greek gods ?</font>
+00:46:35,376 --> 00:46:38,346
+- Who told you this?
+- My father.
 
 521
-00:50:27,385 --> 00:50:29,069
-<font color=#FFFF00> I have heard that myth .</font>
+00:47:41,776 --> 00:47:44,780
+You see how Themistokles
+employs deception with such grace?
 
 522
-00:50:29,149 --> 00:50:32,621
-<font color=#FFFF00> How about you?
-whether there is god of seed </ font>
+00:47:45,279 --> 00:47:48,203
+- Why is it so much to ask for victory?
+- How can I make amends?
 
 523
-00:50:32,668 --> 00:50:35,830
-<font color=#FFFF00> tenteraku say so and
-based on a two-day battle ....</font>
+00:47:48,449 --> 00:47:49,826
+Silence.
 
 524
-00:50:36,607 --> 00:50:39,774
-<font color=#FFFF00> fabulosity in you following me there .</font>
+00:47:53,245 --> 00:47:55,623
+You will carry a message for me.
 
 525
-00:50:40,990 --> 00:50:43,495
-<font color=#FFFF00> Now who praised </ font>
+00:47:56,707 --> 00:47:58,129
+<i>Now they will fear us!</i>
 
 526
-00:50:50,442 --> 00:50:55,681
-<font color=#FFFF00> my carriers Son also said , you are the
-Darius destroyed in Marathon.</font>
+00:47:58,376 --> 00:48:02,006
+Now they will fear
+the Greek men-at-arms! Hup!
 
 527
-00:50:55,769 --> 00:50:58,223
-<font color=#FFFF00> Many horrific incident happened on that day.</font>
+00:48:03,589 --> 00:48:04,590
+He's right.
 
 528
-00:50:58,368 --> 00:51:00,051
-<font color=#FFFF00> It happened ten years ago ....</font>
+00:48:05,341 --> 00:48:07,218
+Fear the Greek fighting man.
 
 529
-00:51:00,482 --> 00:51:02,904
-<font color=#FFFF00> And the story of the war
-often exaggerated - enlarge.</font>
+00:48:07,468 --> 00:48:08,594
+Fear his sword.
 
 530
-00:51:02,965 --> 00:51:05,081
-<font color=#FFFF00> That move sure you remember .</font>
+00:48:08,844 --> 00:48:10,187
+His shield.
 
 531
-00:51:06,250 --> 00:51:09,510
-<font color=#FFFF00> I will do everything to defend Greece .</font>
+00:48:10,638 --> 00:48:13,232
+Fear his love for Mother Greece.
 
 532
-00:51:09,726 --> 00:51:12,442
-<font color=#FFFF00> And I do anything to destroy it.</font>
+00:48:13,474 --> 00:48:14,976
+But most of all...
 
 533
-00:51:15,292 --> 00:51:18,631
-<font color=#FFFF00> For a greek hero who died ,
-You must kill a thousand Persian warriors .</font>
+00:48:15,559 --> 00:48:17,186
+...fear his freedom!
 
 534
-00:51:20,479 --> 00:51:22,042
-<font color=#FFFF00> Each ship kutenggelamkan ....</font>
+00:48:23,275 --> 00:48:25,198
+Don't be angry with the boy.
 
 535
-00:51:23,007 --> 00:51:24,316
-<font color=#FFFF00> You have to sink a hundred Kapalku .</font>
+00:48:25,486 --> 00:48:26,783
+I took him under my command.
 
 536
-00:51:25,776 --> 00:51:27,964
-<font color=#FFFF00> I can bear
-defeat for weeks - weeks.</font>
+00:48:27,029 --> 00:48:30,033
+Anger is something I reserve
+for my enemies.
 
 537
-00:51:28,158 --> 00:51:30,443
-<font color=#FFFF00> the months - months if necessary.</font>
+00:48:38,290 --> 00:48:39,883
+Themistokles.
 
 538
-00:51:30,629 --> 00:51:32,119
-Total color=#FFFF00> <font my troops will beat you ....</font>
+00:49:00,187 --> 00:49:03,908
+Artemisia's ship is being anchored
+in neutral waters.
 
 539
-00:51:32,330 --> 00:51:35,304
-<font color=#FFFF00> And I took kapalmu
-valuable with the sword .</font>
+00:49:04,150 --> 00:49:06,323
+She'd like to meet with Themistokles.
 
 540
-00:51:35,308 --> 00:51:37,051
-<font color=#FFFF00> Also I shall seize the Greek independence .</font>
+00:49:06,569 --> 00:49:09,448
+- How can you guarantee his safe return?
+- Well, boy...
 
 541
-00:51:37,496 --> 00:51:39,968
-<font color=#FFFF00> You ask me to give up?</font>
+00:49:09,697 --> 00:49:11,620
+...the only honor for her now...
 
 542
-00:51:40,851 --> 00:51:41,569
-<font color=#FFFF00> No.</font>
+00:49:11,866 --> 00:49:15,245
+...will be when she watches
+your crushed and broken fleet...
 
 543
-00:51:42,780 --> 00:51:45,771
-<font color=#FFFF00> I offer the opportunity to avoid
-suffering and join with me.</font>
+00:49:15,494 --> 00:49:17,417
+...sinking to the bottom of the Aegean...
 
 544
-00:51:47,267 --> 00:51:49,537
-<font color=#FFFF00> I need a commander like you.</font>
+00:49:17,663 --> 00:49:19,256
+...and is able to recognize you...
 
 545
-00:51:50,822 --> 00:51:52,636
-Look color=#FFFF00> <font defense you use.</font>
+00:49:19,498 --> 00:49:22,593
+...nailed to the mast of your ship
+with her sword...
 
 546
-00:51:54,493 --> 00:51:55,734
-<font color=#FFFF00> unruly ship .</font>
+00:49:22,835 --> 00:49:25,588
+...as you descend to a watery grave.
 
 547
-00:51:56,780 --> 00:51:59,429
-<font color=#FFFF00> Sparta Leonidas with 300 soldiers .</font>
+00:49:30,968 --> 00:49:33,471
+Why didn't you just say that to begin with?
 
 548
-00:52:00,763 --> 00:52:03,684
-<font color=#FFFF00> An insult ,
-strongest government in the world ....</font>
+00:50:00,915 --> 00:50:03,418
+Welcome to my humble barge.
 
 549
-00:52:03,687 --> 00:52:05,498
-<font color=#FFFF00> Facing such a small team .</font>
+00:50:03,667 --> 00:50:06,216
+We are honored by your presence.
 
 550
-00:52:07,525 --> 00:52:09,766
-<font color=#FFFF00> I do not blame you , Themistokles .</font>
+00:50:08,672 --> 00:50:10,925
+Your barge and you...
 
 551
-00:52:10,487 --> 00:52:15,854
-<font color=#FFFF00> 're battling blood as Poseidon
-nadimu flow .</font>
+00:50:11,634 --> 00:50:13,261
+...are quite impressive.
 
 552
-00:52:15,912 --> 00:52:17,846
-<font color=#FFFF00> No, I blame the Greek .</font>
+00:50:18,057 --> 00:50:19,900
+Kind words.
 
 553
-00:52:18,958 --> 00:52:22,029
-<font color=#FFFF00> fussy bureaucrats working group
-protect their political hideaway ....</font>
+00:50:21,519 --> 00:50:24,739
+Now come, Themistokles.
+We have much to discuss.
 
 554
-00:52:22,031 --> 00:52:25,055
-<font color=#FFFF00> With send you here to die .</font>
+00:50:26,440 --> 00:50:29,114
+Do you believe the Greeks
+are descended from the gods?
 
 555
-00:52:28,296 --> 00:52:30,465
-<font color=#FFFF00> And you choose to keep fighting .</font>
+00:50:29,360 --> 00:50:30,953
+I have heard some say that.
 
 556
-00:52:32,144 --> 00:52:33,735
-<font color=#FFFF00> There must be something ....</font>
+00:50:31,195 --> 00:50:34,495
+And what of you?
+Is there a god in your lineage?
 
 557
-00:52:35,541 --> 00:52:36,920
-<font color=#FFFF00> .... What ?</font>
+00:50:34,740 --> 00:50:38,165
+My men say so, and based on
+the last two days' battle...
 
 558
-00:52:38,124 --> 00:52:40,321
-<font color=#FFFF00> family in the state of Athens ....</font>
+00:50:38,661 --> 00:50:41,915
+...I'd say there's a spark of the divine in you.
 
 559
-00:52:40,759 --> 00:52:42,319
-<font color=#FFFF00> .... The support you .</font>
+00:50:43,123 --> 00:50:45,717
+Now who's using kind words?
 
 560
-00:52:43,288 --> 00:52:45,972
-<font color=#FFFF00> love is so strong .</font>
+00:50:52,591 --> 00:50:54,184
+My men also say that it was you...
 
 561
-00:52:48,115 --> 00:52:50,675
-<font color=#FFFF00> Actually , I have no time for family .</font>
+00:50:54,426 --> 00:50:57,600
+...who slayed the good King Darius
+at Marathon.
 
 562
-00:52:51,156 --> 00:52:55,771
-<font color=#FFFF00> I spent my whole life
-with love sejatiku ....</font>
+00:50:57,846 --> 00:51:00,269
+Many heroic deeds occurred on that day.
 
 563
-00:52:56,485 --> 00:52:57,992
-<font color=#FFFF00> .... Greek Fleet .</font>
+00:51:00,516 --> 00:51:02,234
+But it was 10 years ago...
 
 564
-00:52:58,848 --> 00:53:00,694
-<font color=#FFFF00> One - the only thing that I care about ....</font>
+00:51:02,476 --> 00:51:04,979
+...and the facts of battle
+are often embellished.
 
 565
-00:53:01,028 --> 00:53:02,825
-<font color=#FFFF00> prepare it to beat you .</font>
+00:51:05,229 --> 00:51:07,072
+This deed, you would remember.
 
 566
-00:53:06,977 --> 00:53:08,723
-<font color=#FFFF00> It makes me happy ....</font>
+00:51:08,399 --> 00:51:11,528
+I do what I must to defend Greece.
 
 567
-00:53:08,728 --> 00:53:12,002
-<font color=#FFFF00> Knowing that you come this far for me ....</font>
+00:51:11,777 --> 00:51:14,326
+And I do what I must to defeat her.
 
 568
-00:53:12,898 --> 00:53:15,434
-Forgetting color=#FFFF00> <font family and love ....</font>
+00:51:17,449 --> 00:51:20,453
+For every one Greek killed,
+you must kill a thousand Persians.
 
 569
-00:53:15,863 --> 00:53:19,248
-<font color=#FFFF00> By a promise that more satisfying .</font>
+00:51:22,454 --> 00:51:24,127
+For every ship I sink...
 
 570
-00:53:26,035 --> 00:53:29,394
-<font color=#FFFF00> Satisfaction with swords and meat ....</font>
+00:51:25,082 --> 00:51:26,880
+...you must sink a hundred.
 
 571
-00:53:30,711 --> 00:53:33,858
-<font color=#FFFF00> Death and life .</font>
+00:51:27,876 --> 00:51:29,878
+I can sustain losses for weeks.
 
 572
-00:53:35,386 --> 00:53:36,853
-<font color=#FFFF00> Anger ...</font>
+00:51:30,129 --> 00:51:32,427
+Months, if need be.
 
 573
-00:53:37,837 --> 00:53:39,938
-<font color=#FFFF00> .... And sweat muscled .</font>
+00:51:32,673 --> 00:51:34,175
+My numbers will defeat you...
 
 574
-00:53:41,210 --> 00:53:43,125
-<font color=#FFFF00> true happiness ....</font>
+00:51:34,425 --> 00:51:37,144
+...and I will take your precious boats
+with my sword.
 
 575
-00:53:44,358 --> 00:53:46,648
-<font color=#FFFF00> And the pain from within.</font>
+00:51:37,386 --> 00:51:38,979
+I will take your Greek freedom.
 
 576
-00:53:47,511 --> 00:53:51,597
-<font Dead color=#FFFF00> every night and Ahir back
-with me every morning ....</font>
+00:51:39,680 --> 00:51:42,524
+Are you asking me
+to negotiate a surrender?
 
 577
-00:53:52,165 --> 00:53:55,894
-<font color=#FFFF00> Like when you hunuskan sword
-to the heart of the enemy .</font>
+00:51:42,766 --> 00:51:43,813
+No.
 
 578
-00:53:59,892 --> 00:54:01,368
-<font color=#FFFF00> 're fighting for liberation .</font>
+00:51:44,810 --> 00:51:47,780
+I offer you a chance
+to avoid such misery and join me.
 
 579
-00:54:02,121 --> 00:54:05,920
-<font color=#FFFF00> I offer independence without
-consequence or responsibility .</font>
+00:51:49,356 --> 00:51:51,905
+I'm in need of a commander such as you.
 
 580
-00:54:08,980 --> 00:54:10,459
-<font color=#FFFF00> Join with me ....</font>
+00:51:52,901 --> 00:51:54,528
+Look at the defense you've mounted.
 
 581
-00:54:12,039 --> 00:54:13,790
-<font color=#FFFF00> .... In my side .</font>
+00:51:56,572 --> 00:51:58,040
+A handful of triremes.
 
 582
-00:54:13,988 --> 00:54:18,482
-<font color=#FFFF00> breathe with me
-as - if it were the last time.</font>
+00:51:58,866 --> 00:52:01,085
+Leonidas with 300 Spartans.
 
 583
-00:56:07,296 --> 00:56:08,723
-<font color=#FFFF00> Join with me ....</font>
+00:52:02,870 --> 00:52:04,087
+It's insulting, frankly...
 
 584
-00:56:14,816 --> 00:56:16,061
-<font color=#FFFF00> No.</font>
+00:52:04,330 --> 00:52:07,459
+...that the mightiest empire the world
+has ever seen is met by this.
 
 585
-00:56:27,100 --> 00:56:30,328
-<font color=#FFFF00> 're not gods.
-You're a human being .</font>
+00:52:09,627 --> 00:52:11,800
+I don't blame you, Themistokles.
 
 586
-00:56:45,442 --> 00:56:47,397
-<font color=#FFFF00> Be - careful with your sword .</font>
+00:52:12,630 --> 00:52:15,383
+You fought as if the blood
+of Poseidon himself...
 
 587
-00:56:51,321 --> 00:56:53,264
-<font color=#FFFF00> You're not going to die tonight.</font>
+00:52:15,633 --> 00:52:17,761
+...was coursing through your veins.
 
 588
-00:56:53,897 --> 00:56:55,403
-<font color=#FFFF00> Guardian </ font>
+00:52:18,010 --> 00:52:19,933
+No, I blame Greece.
 
 589
-00:56:56,699 --> 00:56:58,939
-<font color=#FFFF00> rid of this vermin from kapalku </ font>
+00:52:20,846 --> 00:52:23,850
+The squabbling bureaucrats
+protecting their political hides...
 
 590
-00:57:25,450 --> 00:57:28,535
-<font color=#FFFF00> How ?
-What have you learned?</font>
+00:52:24,099 --> 00:52:26,978
+...by sending you here to die.
 
 591
-00:57:36,254 --> 00:57:38,123
-<font color=#FFFF00> Do Artemisia can be defeated ?</font>
+00:52:30,356 --> 00:52:32,654
+And yet you still fight.
 
 592
-00:57:39,857 --> 00:57:42,087
-<font color=#FFFF00> we encounter more ....</font>
+00:52:34,234 --> 00:52:36,032
+So there must be...
 
 593
-00:57:42,314 --> 00:57:44,987
-<font color=#FFFF00> He will attack full force .</font>
+00:52:37,696 --> 00:52:38,993
+What?
 
 594
-00:57:47,347 --> 00:57:54,409
-...
+00:52:40,324 --> 00:52:44,329
+Family back home in Athens
+that compels you...
 
 595
-00:58:38,812 --> 00:58:40,536
-<font color=#FFFF00> Survive ! Last!</font>
+00:52:45,412 --> 00:52:48,040
+...to battle with such passion?
 
 596
-00:58:52,788 --> 00:58:54,699
-<font color=#FFFF00> Kerahkan my personal team .</font>
+00:52:50,292 --> 00:52:52,886
+Truth is, I've had no time for family.
 
 597
-00:59:22,105 --> 00:59:24,229
-<font color=#FFFF00> - Retreat!
-- Back up!</font>
+00:52:53,128 --> 00:52:55,597
+I have spent my entire adult life...
 
 598
-00:59:24,253 --> 00:59:25,809
-<font color=#FFFF00> - Retreat!
-- Back up!</font>
+00:52:55,839 --> 00:52:57,637
+...with my one true love...
 
 599
-00:59:25,977 --> 00:59:27,863
-<font color=#FFFF00> - Retreat!
-- Back up!</font>
+00:52:58,592 --> 00:53:00,185
+...the Greek fleet...
 
 600
-00:59:28,124 --> 00:59:30,979
-<font color=#FFFF00> Themistokles !
-In water </ font>
+00:53:00,928 --> 00:53:02,771
+...and my one passion...
 
 601
-00:59:34,479 --> 00:59:36,545
-<font color=#FFFF00> Archers ! To the deck , now!</font>
+00:53:03,013 --> 00:53:04,890
+...readying it for you.
 
 602
-00:59:36,776 --> 00:59:38,698
-<font color=#FFFF00> Archer , onto the deck of the ship , now!</font>
+00:53:09,061 --> 00:53:10,563
+Now, that brings me pleasure...
 
 603
-00:59:38,701 --> 00:59:39,570
-<font color=#FFFF00> Hurry !</font>
+00:53:10,813 --> 00:53:14,283
+...the thought of you pining away for me...
 
 604
-00:59:39,984 --> 00:59:42,221
-<font color=#FFFF00> right side !
-Arrow </ font>
+00:53:15,192 --> 00:53:17,786
+...forsaking family and love...
 
 605
-01:00:58,930 --> 01:01:00,347
-<font color=#FFFF00> Keep fighting, son .</font>
+00:53:18,028 --> 00:53:21,202
+...for the promise of a deeper ecstasy.
 
 606
-01:01:01,578 --> 01:01:03,130
-<font color=#FFFF00> Keep fighting !</font>
+00:53:28,247 --> 00:53:31,672
+The ecstasy of steel and flesh...
 
 607
-01:01:23,163 --> 01:01:24,808
-Dig color=#FFFF00> <font top </ font>
+00:53:32,835 --> 00:53:35,805
+...death and life...
 
 608
-01:01:25,043 --> 01:01:26,155
-<font color=#FFFF00> At the top!</font>
+00:53:37,631 --> 00:53:39,178
+...of rage...
 
 609
-01:02:37,093 --> 01:02:38,486
-<font color=#FFFF00> Leave Ship </ font>
+00:53:40,050 --> 00:53:42,394
+...and sweat of muscle...
 
 610
-01:02:38,858 --> 01:02:40,492
-<font color=#FFFF00> Leave Ship </ font>
+00:53:43,512 --> 00:53:45,435
+...of pure joy...
 
 611
-01:02:40,664 --> 01:02:42,067
-<font color=#FFFF00> Leave Ship </ font>
+00:53:46,432 --> 00:53:48,605
+...and deepest sorrow.
 
 612
-01:04:27,472 --> 01:04:29,416
-<font color=#FFFF00> <i> Death innocent .</i></font>
+00:53:49,852 --> 00:53:53,698
+Die with me each night and be born again
+with me each morning...
 
 613
-01:04:30,382 --> 01:04:32,075
-<font color=#FFFF00> <i> responsible .</i></font>
+00:53:54,356 --> 00:53:58,236
+...as you plant your sword
+into the hearts of our enemies.
 
 614
-01:04:33,794 --> 01:04:36,461
-<font color=#FFFF00> <i> Themistokles saw the bodies of his men ....</i></font>
+00:54:01,989 --> 00:54:03,662
+You fight for freedom.
 
 615
-01:04:36,464 --> 01:04:38,684
-<font color=#FFFF00> <i> Sink to the bottom of the Aegean with blood.</i></font>
+00:54:04,199 --> 00:54:07,954
+I offer freedom without
+consequence or responsibility.
 
 616
-01:04:40,073 --> 01:04:42,063
-<font color=#FFFF00> <i> Do they sacrifice the egoannya </ i ></font>
+00:54:11,206 --> 00:54:12,674
+Join me...
 
 617
-01:04:43,500 --> 01:04:46,835
-<font color=#FFFF00> <i> Or to make amends
-her past in Marathon ?</i></font>
+00:54:14,126 --> 00:54:15,844
+...at my side.
 
 618
-01:04:50,403 --> 01:04:55,162
-<font color=#FFFF00> <i> How many warriors safe
-if Themistokles kill Xerxes young </ i ></font>
+00:54:16,128 --> 00:54:20,133
+Breathe each breath with me
+as if it were your last.
 
 619
-01:04:58,211 --> 01:05:00,714
-<font color=#FFFF00> <i> not convinced even himself .</i></font>
+00:56:09,199 --> 00:56:10,701
+Join me.
 
 620
-01:05:02,417 --> 01:05:03,850
-<font color=#FFFF00> My Friends .</font>
+00:56:16,748 --> 00:56:17,965
+No.
 
 621
-01:05:05,151 --> 01:05:06,711
-<font color=#FFFF00> We face the worst odds .</font>
+00:56:29,094 --> 00:56:32,348
+You're no god. You're just a man.
 
 622
-01:05:08,414 --> 01:05:09,796
-<font color=#FFFF00> Together - equal .</font>
+00:56:47,487 --> 00:56:49,740
+Be quick with your sword.
 
 623
-01:05:12,443 --> 01:05:14,933
-<font color=#FFFF00> Hear me, Themistokles .</font>
+00:56:53,201 --> 00:56:55,420
+You'll not have your death tonight.
 
 624
-01:05:18,644 --> 01:05:20,350
-<font color=#FFFF00> You gotta fight ....</font>
+00:56:55,954 --> 00:56:57,126
+Guards!
 
 625
-01:05:21,204 --> 01:05:23,830
-<font color=#FFFF00> With double the strength tomorrow morning .</font>
+00:56:58,749 --> 00:57:00,922
+Remove this filth from my ship.
 
 626
-01:05:24,855 --> 01:05:27,003
-<font color=#FFFF00> We will fight to work together .</font>
+00:57:27,194 --> 00:57:27,945
+Well?
 
 627
-01:05:27,124 --> 01:05:28,107
-<font color=#FFFF00> No, son .</font>
+00:57:28,904 --> 00:57:30,781
+What have you learned?
 
 628
-01:05:29,874 --> 01:05:32,249
-<font color=#FFFF00> You gotta fight for both of us .</font>
+00:57:38,121 --> 00:57:40,089
+Can Artemisia be beaten?
 
 629
-01:06:32,064 --> 01:06:33,357
-<font color=#FFFF00> What did he say?</font>
+00:57:41,792 --> 00:57:44,090
+The next time that we face her...
 
 630
-01:06:35,976 --> 01:06:38,180
-<font color=#FFFF00> I'll tell when it's time , son.</font>
+00:57:44,336 --> 00:57:46,964
+...she's going to bring all of hell with her.
 
 631
-01:06:40,378 --> 01:06:41,751
-<font color=#FFFF00> calm .</font>
+00:58:40,892 --> 00:58:43,315
+Hold! Hold!
 
 632
-01:06:43,215 --> 01:06:45,319
-<font color=#FFFF00> body Temanilah father.</font>
+00:58:54,865 --> 00:58:56,959
+Send in my personal guard.
 
 633
-01:06:53,824 --> 01:06:56,975
-<font color=#FFFF00> How many times do we have to
-face a tragedy like this ?</font>
+00:59:23,852 --> 00:59:24,853
+Pull back!
 
 634
-01:06:59,040 --> 01:07:00,403
-<font color=#FFFF00> much needed .</font>
+00:59:25,103 --> 00:59:26,195
+Retreat!
 
 635
-01:07:01,401 --> 01:07:03,384
-<font color=#FFFF00> We sacrificed the lives of many young fighters .</font>
+00:59:26,438 --> 00:59:27,678
+- Retreat!
+- Retreat!
 
 636
-01:07:06,630 --> 01:07:08,311
-<font color=#FFFF00> you think I'm having fun with all this ?</font>
+00:59:27,814 --> 00:59:29,316
+- Retreat!
+- Retreat!
 
 637
-01:07:10,017 --> 01:07:12,029
-<font color=#FFFF00> Witness last breath of my friends </ font>
+00:59:30,025 --> 00:59:31,743
+Themistokles!
 
 638
-01:07:16,024 --> 01:07:18,393
-<font color=#FFFF00> <i> All widowed due to my decision ....</i></font>
+00:59:31,985 --> 00:59:33,487
+In the water!
 
 639
-01:07:20,535 --> 01:07:23,043
-<font color=#FFFF00> <i> All children who grow up without a dad ....</i></font>
+00:59:37,032 --> 00:59:39,205
+Archers on deck now!
 
 640
-01:07:24,979 --> 01:07:26,539
-<font color=#FFFF00> <i> .... it's all a result of my decision .</i></font>
+00:59:39,451 --> 00:59:41,124
+Archers on deck now! Quickly!
 
 641
-01:07:27,960 --> 01:07:31,215
-This color=#FFFF00> <font My burden as a leader.</font>
+00:59:41,703 --> 00:59:42,863
+Starboard side!
 
 642
-01:07:55,363 --> 01:07:58,974
-<font color=#FFFF00> So easy to spend a great soldier ....</font>
+00:59:43,080 --> 00:59:44,252
+Fire at will!
 
 643
-01:08:00,560 --> 01:08:04,207
-Leaving color=#FFFF00> <font tenteraku see
-best warriors of Sparta.</font>
+01:01:00,907 --> 01:01:02,204
+Fight on, boy.
 
 644
-01:08:06,782 --> 01:08:08,939
-<font color=#FFFF00> Take them untukmelalui
-body - this body .</font>
+01:01:03,743 --> 01:01:05,211
+Fight on!
 
 645
-01:08:09,614 --> 01:08:13,331
-<font color=#FFFF00> Let them see the effect
-if against the king of the gods .</font>
+01:01:25,015 --> 01:01:26,733
+Aim for the men on top!
 
 646
-01:08:17,258 --> 01:08:20,272
-<font color=#FFFF00> King Leonidas with
-300 brave soldiers die ....</font>
+01:01:26,975 --> 01:01:28,192
+UP there!
 
 647
-01:08:20,486 --> 01:08:23,073
-<font color=#FFFF00> It is the best Greek warrior .</font>
+01:02:38,713 --> 01:02:41,557
+Abandon ship! Abandon ship!
 
 648
-01:08:23,475 --> 01:08:27,047
-<font color=#FFFF00> There will be no bold rebels
-against our team .</font>
+01:02:41,800 --> 01:02:43,768
+Abandon ship!
 
 649
-01:08:27,799 --> 01:08:30,578
-<font color=#FFFF00> Nothing could
-Speeding stop Kekaisaranku .</font>
+01:04:29,532 --> 01:04:31,876
+<i>The dead have no guilt.</i>
 
 650
-01:08:32,510 --> 01:08:34,037
-<font color=#FFFF00> Majesty.</font>
+01:04:32,410 --> 01:04:34,629
+<i>No responsibility.</i>
 
 651
-01:08:37,403 --> 01:08:40,776
-<font color=#FFFF00> you , take the sword of the deceased king of Athens .</font>
+01:04:35,830 --> 01:04:38,003
+<i>Themistokles watches the bodies
+of his men...</i>
 
 652
-01:08:41,048 --> 01:08:43,929
-<font color=#FFFF00> Let them know that
-I will come to them.</font>
+01:04:38,249 --> 01:04:41,093
+<i>...turn the Aegean red with blood.</i>
 
 653
-01:08:45,217 --> 01:08:46,681
-<font color=#FFFF00> Let them know ....</font>
+01:04:42,128 --> 01:04:43,971
+<i>Were they sacrificed for his ego?</i>
 
 654
-01:08:47,031 --> 01:08:48,146
-<font color=#FFFF00> Athens ...</font>
+01:04:45,673 --> 01:04:49,678
+<i>Or to relieve the guilt of the long-ago
+mistake at Marathon?</i>
 
 655
-01:08:49,162 --> 01:08:51,694
-<font color=#FFFF00> they are very beautiful city ....</font>
+01:04:52,680 --> 01:04:54,398
+<i>How many men would have been saved...</i>
 
 656
-01:08:52,834 --> 01:08:54,833
-<font color=#FFFF00> will vanish from history .</font>
+01:04:54,641 --> 01:04:57,611
+<i>...if Themistokles had killed that boy?</i>
 
 657
-01:08:58,956 --> 01:09:00,244
-<font color=#FFFF00> Themistokles </ font>
+01:05:00,355 --> 01:05:03,108
+<i>Not even his own soul can be sure.</i>
 
 658
-01:09:03,592 --> 01:09:07,230
-<font color=#FFFF00> I bring a message of Thermopylae , that
-Leonidas had been betrayed by the handicapped .</font>
+01:05:04,567 --> 01:05:06,194
+My friend.
 
 659
-01:09:07,489 --> 01:09:09,391
-<font color=#FFFF00> The Spartans have been attacked repeatedly .</font>
+01:05:07,112 --> 01:05:09,080
+We faced the odds.
 
 660
-01:09:09,476 --> 01:09:10,612
-<font color=#FFFF00> Hell Gate has collapsed.</font>
+01:05:10,407 --> 01:05:12,000
+Together.
 
 661
-01:09:13,775 --> 01:09:15,537
-<font color=#FFFF00> incredible sacrifice .</font>
+01:05:13,993 --> 01:05:14,994
+Listen to me...
 
 662
-01:09:19,826 --> 01:09:21,692
-<font color=#FFFF00> Now Greece has a Martyr .</font>
+01:05:15,245 --> 01:05:17,122
+...Themistokles.
 
 663
-01:09:23,133 --> 01:09:24,351
-<font color=#FFFF00> Daxos ...</font>
+01:05:20,708 --> 01:05:22,881
+You will have to fight...
 
 664
-01:09:24,798 --> 01:09:27,213
-<font color=#FFFF00> Spread the word about the gates of hell ....</font>
+01:05:23,128 --> 01:05:25,927
+...with twice as much strength
+in the morning.
 
 665
-01:09:27,338 --> 01:09:29,829
-<font color=#FFFF00> to all cities, to all the villages .</font>
+01:05:26,798 --> 01:05:28,800
+We will fight shoulder-to-shoulder.
 
 666
-01:09:30,085 --> 01:09:32,748
-Let color=#FFFF00> <font statewide listening beritamu .</font>
+01:05:29,050 --> 01:05:30,427
+No, my son.
 
 667
-01:09:32,888 --> 01:09:34,467
-<font color=#FFFF00> But they 're dead.
-They all .</font>
+01:05:31,886 --> 01:05:34,639
+You will carry on for both of us.
 
 668
-01:09:35,002 --> 01:09:37,494
-<font color=#FFFF00> Sacrifice Spartans will be our union .</font>
+01:06:33,948 --> 01:06:35,370
+What did he say?
 
 669
-01:09:38,280 --> 01:09:38,970
-<font color=#FFFF00> go .</font>
+01:06:37,911 --> 01:06:40,164
+I will tell you in time, boy.
 
 670
-01:09:41,647 --> 01:09:44,433
-<font color=#FFFF00> Move around the ship and
-Our team at the hiding place of Salamis .</font>
+01:06:42,415 --> 01:06:43,758
+Quiet now.
 
 671
-01:09:44,959 --> 01:09:45,838
-<font color=#FFFF00> And you?</font>
+01:06:45,084 --> 01:06:47,507
+You go and be with your father's spirit.
 
 672
-01:09:46,557 --> 01:09:48,964
-<font color=#FFFF00> I'll pass the news from Daxos to Athens .</font>
+01:06:56,679 --> 01:06:59,432
+How many times do you think
+we will repeat such a tragedy?
 
 673
-01:09:50,582 --> 01:09:53,835
-<font color=#FFFF00> I was told that the defect is responsible
-the defeat at the gates of hell .</font>
+01:07:00,975 --> 01:07:02,147
+As many times as we must.
 
 674
-01:09:55,224 --> 01:09:56,984
-<font color=#FFFF00> He betrayed his country ....</font>
+01:07:03,228 --> 01:07:05,071
+We are turning young men into memories.
 
 675
-01:09:57,347 --> 01:09:59,559
-Leaving color=#FFFF00> <font faithfulness in Sparta ....</font>
+01:07:08,691 --> 01:07:10,614
+Do you think I enjoy this?
 
 676
-01:10:00,210 --> 01:10:01,662
-<font color=#FFFF00> And Persian convert to gold .</font>
+01:07:12,153 --> 01:07:14,155
+Witnessing my friend's final breath?
 
 677
-01:10:04,264 --> 01:10:05,401
-<font color=#FFFF00> What is your name ....</font>
+01:07:18,076 --> 01:07:20,420
+Every widow that is made by my decision...
 
 678
-01:10:06,239 --> 01:10:07,051
-<font color=#FFFF00> traitor .... </ font>
+01:07:22,497 --> 01:07:25,216
+...every child that will grow
+without a father...
 
 679
-01:10:07,301 --> 01:10:09,637
-<font color=#FFFF00> Ephialtes of Trachis .</font>
+01:07:27,001 --> 01:07:28,753
+...they are my choices.
 
 680
-01:10:22,655 --> 01:10:26,249
-<font color=#FFFF00> Should I wash this noble sword with blood.</font>
+01:07:29,754 --> 01:07:33,384
+This is the burden of my command.
 
 681
-01:10:28,048 --> 01:10:29,780
-<font color=#FFFF00> 're entitled to do .</font>
+01:07:57,282 --> 01:07:58,909
+How easy it is to silence...
 
 682
-01:10:30,809 --> 01:10:33,419
-<font color=#FFFF00> Rupaku was not good at all.</font>
+01:07:59,158 --> 01:08:02,378
+...the strong and self-disciplined.
 
 683
-01:10:33,735 --> 01:10:37,242
-<font color=#FFFF00> What I had done, too bad .</font>
+01:08:02,620 --> 01:08:05,794
+Let my army witness
+the great warriors of Sparta.
 
 684
-01:10:42,500 --> 01:10:43,974
-<font color=#FFFF00> Suppose your post .</font>
+01:08:09,043 --> 01:08:12,217
+March them past these corpses.
 
 685
-01:10:44,948 --> 01:10:46,484
-<font color=#FFFF00> I beg thee ....</font>
+01:08:12,463 --> 01:08:15,637
+Let them see the cost
+of daring to challenge the god-king.
 
 686
-01:10:47,343 --> 01:10:48,853
-<font color=#FFFF00> and around Athens !</font>
+01:08:19,387 --> 01:08:20,934
+King Leonidas...
 
 687
-01:10:49,177 --> 01:10:52,547
-<font color=#FFFF00> King of the gods will destroy this city !</font>
+01:08:21,180 --> 01:08:25,185
+...and his brave 300
+were the finest Greece has to offer.
 
 688
-01:10:52,702 --> 01:10:53,694
-<font color=#FFFF00> What do you mean ?</font>
+01:08:25,476 --> 01:08:26,728
+There will be no Saviors...
 
 689
-01:10:54,023 --> 01:10:55,695
-<font color=#FFFF00> Quiet all of you!</font>
+01:08:26,978 --> 01:08:29,401
+...to rise up and vanquish us.
 
 690
-01:10:56,805 --> 01:11:01,180
-<font color=#FFFF00> great sacrifice of Leonidas and the Spartans
-not defeat.</font>
+01:08:30,023 --> 01:08:32,822
+Nothing will stop the march of my empire.
 
 691
-01:11:04,157 --> 01:11:05,971
-<font color=#FFFF00> That wonderful victory .</font>
+01:08:35,361 --> 01:08:36,533
+Your Majesty.
 
 692
-01:11:08,215 --> 01:11:11,738
-<font color=#FFFF00> bold action and simple ....</font>
+01:08:39,365 --> 01:08:41,333
+You, take this dead king's sword...
 
 693
-01:11:12,462 --> 01:11:16,845
-<font color=#FFFF00> will inspire
-every city and unify the Greek </ font>
+01:08:41,576 --> 01:08:42,873
+...to Athens.
 
 694
-01:11:18,034 --> 01:11:19,661
-<font color=#FFFF00> for one purpose ....</font>
+01:08:43,119 --> 01:08:46,043
+Let them know
+that I am coming next for them.
 
 695
-01:11:20,294 --> 01:11:21,594
-<font color=#FFFF00> fight our common enemy !</font>
+01:08:47,206 --> 01:08:48,799
+Let them know...
 
 696
-01:11:22,873 --> 01:11:23,848
-<font color=#FFFF00> And you ....</font>
+01:08:49,042 --> 01:08:50,544
+...Athens...
 
 697
-01:11:24,269 --> 01:11:27,020
-<font color=#FFFF00> Bring this message to the king of the gods you.</font>
+01:08:51,252 --> 01:08:54,131
+...their prize jewel of a city...
 
 698
-01:11:27,136 --> 01:11:29,666
-<font color=#FFFF00> We will deploy
-Our ships are still there ...</font>
+01:08:54,922 --> 01:08:57,345
+...will disappear from the histories.
 
 699
-01:11:30,642 --> 01:11:33,028
-<font color=#FFFF00> and finish this battle in the bay of Salamis .</font>
+01:09:01,012 --> 01:09:02,434
+Themistokles!
 
 700
-01:11:33,956 --> 01:11:36,372
-<font color=#FFFF00> There will be a lot of death and destruction.</font>
+01:09:05,516 --> 01:09:06,517
+I bring word...
 
 701
-01:11:37,090 --> 01:11:40,104
-<font color=#FFFF00> Yes , it's true.</font>
+01:09:06,768 --> 01:09:09,396
+...from Thermopylae.
+Leonidas was betrayed by a hunchback.
 
 702
-01:11:47,414 --> 01:11:48,616
-<font color=#FFFF00> Themistokles .</font>
+01:09:09,646 --> 01:09:11,319
+The Spartans have been slaughtered.
 
 703
-01:11:51,163 --> 01:11:53,157
-<font color=#FFFF00> I came to talk to the Queen.</font>
+01:09:11,564 --> 01:09:12,781
+The Hot Gates have fallen.
 
 704
-01:11:54,148 --> 01:11:55,783
-<font color=#FFFF00> reminder to you, the Athens ...</font>
+01:09:15,777 --> 01:09:17,825
+Such a sacrifice.
 
 705
-01:11:55,995 --> 01:11:58,560
-<font color=#FFFF00> You should be ready to face what is waiting for you.</font>
+01:09:21,949 --> 01:09:24,122
+Now Greece has her martyrs.
 
 706
-01:12:25,438 --> 01:12:27,425
-<font color=#FFFF00> I commiserate .</font>
+01:09:25,370 --> 01:09:27,543
+Daxos, take that message...
 
 707
-01:12:29,599 --> 01:12:32,363
-<font color=#FFFF00> I can not change what has
-Leonidas happened ....</font>
+01:09:27,789 --> 01:09:29,336
+...from the Hot Gates...
 
 708
-01:12:32,802 --> 01:12:35,284
-<font color=#FFFF00> But his sacrifice will not be forgotten .</font>
+01:09:29,582 --> 01:09:31,926
+...to every city, every village.
 
 709
-01:12:36,591 --> 01:12:38,365
-<font color=#FFFF00> Do not talk to me about sacrifice ....</font>
+01:09:32,168 --> 01:09:34,762
+Let every countryman hear your words.
 
 710
-01:12:38,367 --> 01:12:40,171
-<font color=#FFFF00> and explain mean come, Athens .</font>
+01:09:35,004 --> 01:09:36,802
+But they are dead. All of them.
 
 711
-01:12:42,853 --> 01:12:45,735
-<font color=#FFFF00> I ask for help all over the navy Sparta.</font>
+01:09:37,048 --> 01:09:39,847
+Sparta's sacrifice will be what unites us.
 
 712
-01:12:47,101 --> 01:12:49,201
-<font color=#FFFF00> All team and ship
-can you lend .</font>
+01:09:40,426 --> 01:09:41,803
+Now go.
 
 713
-01:12:49,470 --> 01:12:52,737
-<font color=#FFFF00> Do pengorbananku not enough to
-Greek peryatuan wish come on </ font>
+01:09:43,054 --> 01:09:43,646
+Hyah!
 
 714
-01:12:53,192 --> 01:12:55,611
-<font color=#FFFF00> Should I give the sword to my son ?</font>
+01:09:43,888 --> 01:09:46,607
+Move all of our ships and men back
+to the safety of Salamis.
 
 715
-01:12:55,619 --> 01:12:56,659
-<font color=#FFFF00> Our son </ font>
+01:09:46,849 --> 01:09:48,226
+And you?
 
 716
-01:12:56,751 --> 01:12:58,068
-<font color=#FFFF00> What would memuaskanmu </ font>
+01:09:49,060 --> 01:09:51,313
+I will take Daxos' message to Athens.
 
 717
-01:12:59,580 --> 01:13:02,882
-<font color=#FFFF00> What pengorbananku by
-ambitions were not enough, Themistokles </ font>
+01:09:52,522 --> 01:09:55,802
+I was told a hunchback
+was accountable for the fall of the Hot Gates.
 
 718
-01:13:03,758 --> 01:13:04,815
-<font color=#FFFF00> A king .</font>
+01:09:57,193 --> 01:10:00,288
+That he sold out his country...
 
 719
-01:13:05,698 --> 01:13:08,037
-<font color=#FFFF00> husband , father , brother .</font>
+01:10:00,530 --> 01:10:03,750
+...pulled the crimson from his back
+and replaced it with Persian gold.
 
 720
-01:13:08,051 --> 01:13:09,895
-<font color=#FFFF00> Spartans will not give any support .</font>
+01:10:06,494 --> 01:10:08,292
+What is your name, traitor?
 
 721
-01:13:26,355 --> 01:13:27,874
-<font color=#FFFF00> 's yours.</font>
+01:10:09,372 --> 01:10:12,501
+Ephialtes of Trachis.
 
 722
-01:13:38,154 --> 01:13:39,592
-<font color=#FFFF00> treated vengeance.</font>
+01:10:24,429 --> 01:10:28,434
+I should wet this noble blade
+with your blood.
 
 723
-01:13:57,496 --> 01:14:00,044
-<font color=#FFFF00> <i> words can be used as predictors of the memorial .</i></font>
+01:10:30,184 --> 01:10:32,027
+You would be right to do so.
 
 724
-01:14:01,021 --> 01:14:02,878
-<font color=#FFFF00> <i> "All Greeks will fall "</i></font>
+01:10:32,854 --> 01:10:35,528
+There is little beauty about me.
 
 725
-01:14:03,677 --> 01:14:06,165
-<font color=#FFFF00> <i> " And Persian Fire will destroy Athens '</i></font>
+01:10:35,773 --> 01:10:39,778
+There is little beauty in what I have done.
 
 726
-01:14:08,455 --> 01:14:13,217
-<font color=#FFFF00> <i> " Because Athens is
-heap of stones , wood, cloth and ashes. "</i></font>
+01:10:44,615 --> 01:10:46,288
+Say what you must.
 
 727
-01:14:14,263 --> 01:14:16,902
-<font color=#FFFF00> <i> " As the dust , the city is also
-will be gone by the wind. "</i></font>
+01:10:46,951 --> 01:10:48,794
+I beg of you...
 
 728
-01:14:18,779 --> 01:14:21,383
-<font color=#FFFF00> <i> " Only people of Athens will be safe."</i></font>
+01:10:49,370 --> 01:10:50,872
+...and all of Athens!
 
 729
-01:14:22,868 --> 01:14:26,279
-<font color=#FFFF00> <i> " And the fate of the world
-is in their hands. "</i></font>
+01:10:51,122 --> 01:10:54,672
+The god-king will burn this city
+to the ground!
 
 730
-01:14:27,483 --> 01:14:29,519
-<font color=#FFFF00> <i> " Only people of Athens will be safe."</i></font>
+01:10:54,917 --> 01:10:55,964
+What does he mean?
 
 731
-01:14:30,054 --> 01:14:32,821
-<font color=#FFFF00> <i> " And only the great wooden ship can
-save them .</i></font>
+01:10:56,502 --> 01:10:58,175
+Quiet yourselves!
 
 732
-01:14:33,754 --> 01:14:34,925
-<font color=#FFFF00> <i> " Wooden Ships ... "</i></font>
+01:10:59,130 --> 01:11:03,135
+Leonidas' and Sparta's great sacrifice
+was no defeat.
 
 733
-01:14:36,183 --> 01:14:38,569
-<font color=#FFFF00> <i> " .... and the mighty waves of blood . "</i></font>
+01:11:06,262 --> 01:11:08,356
+It was a beautiful victory.
 
 734
-01:14:46,137 --> 01:14:49,262
-<font Greek color=#FFFF00> act stupid because we oppose .</font>
+01:11:11,642 --> 01:11:14,111
+This simple act of valor...
 
 735
-01:14:49,540 --> 01:14:53,818
-<font color=#FFFF00> Leonidas and his team
-god will not stay .</font>
+01:11:14,395 --> 01:11:16,864
+...will allow us to rally each
+of our city-states...
 
 736
-01:14:56,283 --> 01:15:00,203
-<font color=#FFFF00> Themistokles just cowards who do not use .</font>
+01:11:17,106 --> 01:11:19,108
+...and unite Greece...
 
 737
-01:15:00,450 --> 01:15:01,654
-<font color=#FFFF00> And now ....</font>
+01:11:19,984 --> 01:11:21,986
+...for one purpose...
 
 738
-01:15:02,350 --> 01:15:06,194
-<font color=#FFFF00> Navy sad is not eligible
-get our attention .</font>
+01:11:22,320 --> 01:11:23,492
+...against one enemy!
 
 739
-01:15:06,778 --> 01:15:09,376
-<font color=#FFFF00> If "Coward " wants to join with me ....</font>
+01:11:24,906 --> 01:11:25,953
+And you.
 
 740
-01:15:09,380 --> 01:15:11,656
-We can help you color=#FFFF00> <font world domination.</font>
+01:11:26,199 --> 01:11:29,453
+You take this message to your god-king.
 
 741
-01:15:12,857 --> 01:15:13,870
-<font color=#FFFF00> my King .</font>
+01:11:29,702 --> 01:11:32,251
+That we will take whatever ships
+we have left...
 
 742
-01:15:15,052 --> 01:15:18,347
-<font color=#FFFF00> servant carrying a message .</font>
+01:11:32,789 --> 01:11:35,258
+...and finish this in the Bay of Salamis.
 
 743
-01:15:20,087 --> 01:15:22,289
-Greek Fleet <font color=#FFFF00> not have a defense ....</font>
+01:11:36,125 --> 01:11:38,719
+But there will be death and destruction.
 
 744
-01:15:22,640 --> 01:15:24,583
-<font color=#FFFF00> .... in the Bay of Salamis .</font>
+01:11:38,961 --> 01:11:42,761
+Yes, there will be.
 
 745
-01:15:25,375 --> 01:15:27,465
-<font color=#FFFF00> You just have to destroy them .</font>
+01:11:49,514 --> 01:11:50,936
+Themistokles.
 
 746
-01:15:28,512 --> 01:15:30,327
-<font color=#FFFF00> Who led the fleet </ font>
+01:11:53,267 --> 01:11:55,440
+I'm here to speak to your queen.
 
 747
-01:15:33,996 --> 01:15:36,537
-<font color=#FFFF00> Themistokles from Athens .</font>
+01:11:56,187 --> 01:11:57,689
+A warning, Athenian.
 
 748
-01:15:36,835 --> 01:15:38,483
-<font color=#FFFF00> Themistokles dead.</font>
+01:11:57,939 --> 01:12:00,692
+You may not receive a warm welcome.
 
 749
-01:15:38,798 --> 01:15:42,093
-<font color=#FFFF00> He's still alive .
-I myself saw it.</font>
+01:12:27,468 --> 01:12:30,062
+May I offer my deepest sympathies.
 
 750
-01:15:55,997 --> 01:15:57,910
-Prepare color=#FFFF00> <font military and football perangku .</font>
+01:12:31,681 --> 01:12:34,525
+I cannot change what has happened
+to Leonidas...
 
 751
-01:15:58,598 --> 01:15:59,852
-<font color=#FFFF00> We must attack it .</font>
+01:12:34,767 --> 01:12:37,611
+...but his sacrifice will not be forgotten.
 
 752
-01:16:00,192 --> 01:16:01,106
-<font color=#FFFF00> advice for you ....</font>
+01:12:38,563 --> 01:12:42,033
+Do not lecture me on sacrifice,
+and be quick with your words, Athenian.
 
 753
-01:16:03,282 --> 01:16:06,565
-<font color=#FFFF00> Send us a team of researchers to
-sure it is not a trap .</font>
+01:12:44,902 --> 01:12:48,156
+I request of you the entire Spartan navy.
 
 754
-01:16:07,889 --> 01:16:10,021
-<font color=#FFFF00> You dare to question my decision ?</font>
+01:12:48,906 --> 01:12:50,499
+Every man, every ship...
 
 755
-01:16:11,996 --> 01:16:13,806
-<font color=#FFFF00> he is the king of the gods.</font>
+01:12:50,741 --> 01:12:53,085
+- ...that you can spare.
+- Have I not given enough...
 
 756
-01:16:13,829 --> 01:16:16,565
-<font color=#FFFF00> Leonidas I, who defeated .</font>
+01:12:53,327 --> 01:12:55,000
+...for your dream of a united Greece?
 
 757
-01:16:16,795 --> 01:16:20,809
-<font color=#FFFF00> and I will destroy Athens .</font>
+01:12:55,371 --> 01:12:58,750
+Shall I put swords in the hands
+of my son? Our children?
 
 758
-01:16:21,025 --> 01:16:22,801
-<font color=#FFFF00> I am your king !</font>
+01:12:59,000 --> 01:13:00,217
+Would that please you?
 
 759
-01:16:22,890 --> 01:16:26,408
-<font color=#FFFF00> Killing Leonidas and his army
-just make them into martyrs .</font>
+01:13:01,669 --> 01:13:05,173
+Have I not given enough
+for your ambitions, Themistokles?
 
 760
-01:16:27,464 --> 01:16:29,435
-<font color=#FFFF00> When you destroy Athens ...</font>
+01:13:05,423 --> 01:13:06,970
+A king.
 
 761
-01:16:30,217 --> 01:16:33,831
-<font color=#FFFF00> Just be like you smash
-one - only the most valuable in the country.</font>
+01:13:07,675 --> 01:13:10,053
+Husbands, fathers, brothers.
 
 762
-01:16:45,942 --> 01:16:47,825
-<font color=#FFFF00> I'm going to attack the Greek ....</font>
+01:13:10,303 --> 01:13:12,772
+Sparta will give no more.
 
 763
-01:16:49,616 --> 01:16:51,750
-<font lautku color=#FFFF00> With the entire fleet .</font>
+01:13:28,446 --> 01:13:29,993
+This belongs with you.
 
 764
-01:16:53,372 --> 01:16:54,314
-<font color=#FFFF00> Artemisia .</font>
+01:13:40,249 --> 01:13:41,717
+Avenge him.
 
 765
-01:16:54,684 --> 01:16:55,510
-<font color=#FFFF00> Enough </ font>
+01:13:59,685 --> 01:14:02,438
+<i>The Oracle's words stood as a warning.</i>
 
 766
-01:16:57,556 --> 01:17:00,829
-<font color=#FFFF00> Do not forget who
-placing the crown on your head .</font>
+01:14:03,189 --> 01:14:05,112
+<i>All of Greece will fall...</i>
 
 767
-01:17:01,614 --> 01:17:02,962
-<font color=#FFFF00> my King .</font>
+01:14:05,733 --> 01:14:09,033
+<i>...as Persian fire reduces Athens to cinder.</i>
 
 768
-01:17:04,234 --> 01:17:07,637
-<font color=#FFFF00> Sit and watch your gold throne
-This battle in a safe place ...</font>
+01:14:10,488 --> 01:14:12,832
+<i>For Athens is a pile of stone and wood...</i>
 
 769
-01:17:07,641 --> 01:17:08,534
-<font color=#FFFF00> .... which I have prepared for you .</font>
+01:14:13,074 --> 01:14:15,668
+<i>...and cloth and dust...</i>
 
 770
-01:17:14,838 --> 01:17:16,396
-<font color=#FFFF00> In the distance there ....</font>
+01:14:16,577 --> 01:14:19,376
+<i>...and, as dust, will vanish into the wind.</i>
 
 771
-01:17:17,792 --> 01:17:20,393
-<font color=#FFFF00> We will witness the destruction of Athens .</font>
+01:14:21,040 --> 01:14:23,839
+<i>Only the Athenians themselves exist.</i>
 
 772
-01:17:24,218 --> 01:17:28,163
-<font color=#FFFF00> Alone, we will face monsters
-bring suffering to our state.</font>
+01:14:25,044 --> 01:14:28,639
+<i>And the fate of the world
+hangs on their every syllable.</i>
 
 773
-01:17:31,293 --> 01:17:34,672
-<font color=#FFFF00> I pray Sparta
-will help us this morning .</font>
+01:14:29,507 --> 01:14:31,885
+<i>Only the Athenians exist.</i>
 
 774
-01:17:38,114 --> 01:17:40,099
-<font color=#FFFF00> Maybe they feel
-have enough help .</font>
+01:14:32,259 --> 01:14:35,229
+<i>And only stout wooden ships can save them.</i>
 
 775
-01:17:40,197 --> 01:17:41,524
-<font color=#FFFF00> You disappoint us all .</font>
+01:14:35,888 --> 01:14:37,481
+<i>Wooden ships...</i>
 
 776
-01:17:41,685 --> 01:17:44,879
-<font color=#FFFF00> - It's your fault , Themistokles .
-- Without Sparta , we all just farmers.</font>
+01:14:38,265 --> 01:14:41,109
+<i>...and a tidal wave of heroes' blood.</i>
 
 777
-01:17:44,964 --> 01:17:47,239
-<font color=#FFFF00> We should negotiate with the Persian
-as long as there is still a chance .</font>
+01:14:48,192 --> 01:14:51,287
+The Greeks were fools to stand against us.
 
 778
-01:17:52,109 --> 01:17:53,363
-<font color=#FFFF00> You're all right .</font>
+01:14:51,529 --> 01:14:53,156
+Leonidas and his pride...
 
 779
-01:17:55,634 --> 01:17:59,025
-<font color=#FFFF00> Yes , we brought the ship difficult to handle .</font>
+01:14:53,406 --> 01:14:56,000
+...were no match for the will of a god.
 
 780
-01:18:00,552 --> 01:18:03,974
-<font color=#FFFF00> And, yes , we are just farmers.</font>
+01:14:58,285 --> 01:15:02,210
+Themistokles was a worthless coward.
 
 781
-01:18:04,890 --> 01:18:06,147
-We color=#FFFF00> <font merchants .</font>
+01:15:02,456 --> 01:15:03,958
+And now...
 
 782
-01:18:07,764 --> 01:18:08,754
-<font color=#FFFF00> We are too young ....</font>
+01:15:04,500 --> 01:15:08,221
+...this pathetic navy
+is barely worth our attention.
 
 783
-01:18:09,443 --> 01:18:12,755
-<font color=#FFFF00> Forced into adult male
-through sacrifice and battle .</font>
+01:15:08,462 --> 01:15:10,760
+If that worthless coward
+had stood at my side...
 
 784
-01:18:15,481 --> 01:18:17,485
-<font color=#FFFF00> I play a dangerous game ....</font>
+01:15:11,007 --> 01:15:12,600
+...we would have laid the world...
 
 785
-01:18:18,085 --> 01:18:19,406
-<font color=#FFFF00> And I'm lost !</font>
+01:15:12,842 --> 01:15:13,934
+...at your feet.
 
 786
-01:18:24,634 --> 01:18:27,714
-<font color=#FFFF00> If you want to leave me ....</font>
+01:15:14,844 --> 01:15:15,970
+My king.
 
 787
-01:18:28,420 --> 01:18:29,988
-<font color=#FFFF00> Leaving your land ...</font>
+01:15:17,179 --> 01:15:20,683
+Your humble servant brings you news.
 
 788
-01:18:33,165 --> 01:18:34,755
-<font color=#FFFF00> I would not blame you .</font>
+01:15:22,018 --> 01:15:24,396
+The Greek fleet are defenseless...
 
 789
-01:18:36,764 --> 01:18:38,367
-<font color=#FFFF00> You are free to go.</font>
+01:15:24,645 --> 01:15:26,818
+...within the Bay of Salamis.
 
 790
-01:18:39,985 --> 01:18:41,554
-<font color=#FFFF00> you remain an independent person .</font>
+01:15:27,481 --> 01:15:29,950
+You need only finish them.
 
 791
-01:19:05,079 --> 01:19:06,105
-<font color=#FFFF00> right.</font>
+01:15:30,860 --> 01:15:32,533
+Who commands their forces?
 
 792
-01:19:08,365 --> 01:19:10,378
-<font color=#FFFF00> Let's fight together - the same ...</font>
+01:15:36,032 --> 01:15:38,535
+Themistokles of Athens.
 
 793
-01:19:10,651 --> 01:19:13,260
-<font color=#FFFF00> and drove their ship
-from Greek territory .</font>
+01:15:38,784 --> 01:15:40,627
+Themistokles is dead.
 
 794
-01:19:14,823 --> 01:19:17,873
-<font color=#FFFF00> Today we have the honor
-determine our story .</font>
+01:15:40,870 --> 01:15:44,340
+He is alive. I have seen him myself.
 
 795
-01:19:19,618 --> 01:19:21,028
-<font color=#FFFF00> story will be told ....</font>
+01:15:58,637 --> 01:16:00,435
+Ready my troops and armor.
 
 796
-01:19:21,875 --> 01:19:23,130
-<font color=#FFFF00> For millennia.</font>
+01:16:00,681 --> 01:16:01,978
+We will attack at once.
 
 797
-01:19:24,394 --> 01:19:26,393
-<font color=#FFFF00> Let's make our last defense ...</font>
+01:16:02,224 --> 01:16:03,225
+Wisdom...
 
 798
-01:19:26,657 --> 01:19:28,657
-<font color=#FFFF00> Get into the annals of history.</font>
+01:16:04,935 --> 01:16:05,695
+...would have us...
 
 799
-01:19:29,370 --> 01:19:30,962
-<font color=#FFFF00> Let us show ....</font>
+01:16:05,936 --> 01:16:08,610
+...send a probing force to confirm
+it is not a trap.
 
 800
-01:19:31,640 --> 01:19:34,247
-<font color=#FFFF00> That we choose to die
-in the struggle ....</font>
+01:16:09,774 --> 01:16:12,027
+You would dare to advise me
+in matters of war?
 
 801
-01:19:34,423 --> 01:19:36,728
-<font color=#FFFF00> Instead of living in kebudak - infantilism </ font>
+01:16:13,652 --> 01:16:15,575
+I am the god-king.
 
 802
-01:20:25,005 --> 01:20:27,259
-<font color=#FFFF00> There is only one thing
-you should know today .</font>
+01:16:15,821 --> 01:16:18,540
+I am the one who triumphed over Leonidas.
 
 803
-01:20:27,680 --> 01:20:29,123
-<font color=#FFFF00> Do not killed .</font>
+01:16:18,783 --> 01:16:20,831
+I am the one who laid waste...
 
 804
-01:20:29,457 --> 01:20:30,819
-<font color=#FFFF00> not.</font>
+01:16:21,077 --> 01:16:22,875
+...to this showpiece of Athens.
 
 805
-01:20:30,921 --> 01:20:33,091
-<font color=#FFFF00> Last Orders father.</font>
+01:16:23,120 --> 01:16:26,294
+- I am your king.
+- Killing Leonidas and his men...
 
 806
-01:20:37,499 --> 01:20:40,482
-<font color=#FFFF00> He said to me ,
-You deserve to be a leader .</font>
+01:16:26,540 --> 01:16:28,713
+...only made them martyrs.
 
 807
-01:20:57,673 --> 01:21:01,939
-<font color=#FFFF00> Well, brother , I do not have
-Another tactic or strategy .</font>
+01:16:29,585 --> 01:16:31,587
+And when you razed Athens...
 
 808
-01:21:03,360 --> 01:21:05,849
-<font color=#FFFF00> This will be our last war .</font>
+01:16:32,213 --> 01:16:33,886
+...you set fire to the only thing...
 
 809
-01:21:06,020 --> 01:21:09,415
-<font color=#FFFF00> We have a long battle with
-how can I remember .</font>
+01:16:34,131 --> 01:16:36,054
+...of value in this country.
 
 810
-01:21:10,677 --> 01:21:13,588
-<font color=#FFFF00> No more blessed
-besides hanging sword .</font>
+01:16:48,062 --> 01:16:50,485
+I will attack the Greeks...
 
 811
-01:21:15,056 --> 01:21:18,597
-<font color=#FFFF00> - Parsiapan the kuperlukan ?
-- Some of the lower deck .</font>
+01:16:51,649 --> 01:16:54,243
+...with my entire navy.
 
 812
-01:21:19,701 --> 01:21:20,607
-<font color=#FFFF00> Good .</font>
+01:16:55,444 --> 01:16:56,570
+Artemisia.
 
 813
-01:21:21,018 --> 01:21:23,507
-<font color=#FFFF00> you sure you want to do this?</font>
+01:16:56,821 --> 01:16:58,164
+Enough!
 
 814
-01:21:24,350 --> 01:21:25,400
-<font color=#FFFF00> Yes .</font>
+01:16:59,657 --> 01:17:03,036
+Do not forget who put the crown
+on your childish head.
 
 815
-01:21:27,312 --> 01:21:30,149
-<font color=#FFFF00> <i> Without leadership Artemisia ,
-Persian naval helpless .</i></font>
+01:17:03,619 --> 01:17:05,246
+My king.
 
 816
-01:21:31,960 --> 01:21:34,046
-<font color=#FFFF00> <i> We are not going to be able to approach it .</i></font>
+01:17:06,330 --> 01:17:07,832
+Now sit on your golden throne...
 
 817
-01:21:34,423 --> 01:21:35,731
-<font color=#FFFF00> <i> I will approach it ....</i></font>
+01:17:08,082 --> 01:17:10,756
+...and watch this battle
+from the safety I provide you.
 
 818
-01:21:36,583 --> 01:21:38,209
-<font color=#FFFF00> <i> end all this .</i></font>
+01:17:17,049 --> 01:17:18,722
+There in the distance...
 
 819
-01:21:39,615 --> 01:21:41,668
-<font color=#FFFF00> no room for our ship back.</font>
+01:17:19,927 --> 01:17:22,680
+...we witness the destruction of Athens.
 
 820
-01:21:43,290 --> 01:21:44,494
-<font color=#FFFF00> I know .</font>
+01:17:26,225 --> 01:17:30,230
+Alone, we will face the monster
+that cast a shadow across our land.
 
 821
-01:21:47,125 --> 01:21:50,466
-<font color=#FFFF00> <i> Today, the last Greek ship will be destroyed.</i></font>
+01:17:33,315 --> 01:17:36,945
+I had prayed that the Spartans
+would come to lend a hand this morning.
 
 822
-01:21:50,994 --> 01:21:52,519
-<font color=#FFFF00> <i> Do not for a chance at them .</i></font>
+01:17:39,989 --> 01:17:41,912
+Perhaps they feel they have given enough.
 
 823
-01:21:53,090 --> 01:21:55,687
-<font color=#FFFF00> <i> Do not let them give up .</i></font>
+01:17:42,158 --> 01:17:43,580
+You failed us all.
 
 824
-01:21:55,880 --> 01:21:58,894
-<font color=#FFFF00> Today we will dance
-in the body of the Greek team .</font>
+01:17:43,826 --> 01:17:45,203
+This is your fault, Themistokles.
 
 825
-01:21:59,723 --> 01:22:02,323
-<font color=#FFFF00> <i> Today we will make
-Greek knees.</i></font>
+01:17:45,452 --> 01:17:47,045
+Without Spartans, we're farmhands.
 
 826
-01:22:03,578 --> 01:22:07,308
-<font color=#FFFF00> Today I will tread
-Themistokles neck with my legs.</font>
+01:17:47,288 --> 01:17:50,368
+We should've negotiated
+with the Persians when we had the chance.
 
 827
-01:22:38,579 --> 01:22:41,042
-<font color=#FFFF00> Everything !
-Ready to crush !</font>
+01:17:54,253 --> 01:17:55,971
+You are all right.
 
 828
-01:23:35,198 --> 01:23:36,736
-<font color=#FFFF00> Getting close fight </ font>
+01:17:57,798 --> 01:18:01,553
+Yes, we are down to a handful of boats.
 
 829
-01:23:36,892 --> 01:23:38,243
-<font color=#FFFF00> Attack !</font>
+01:18:02,636 --> 01:18:06,106
+And, yes, we are just farmhands.
 
 830
-01:23:44,498 --> 01:23:46,108
-<font color=#FFFF00> father saw pertempuranmu </ font>
+01:18:06,807 --> 01:18:08,559
+We are tradesmen.
 
 831
-01:23:46,919 --> 01:23:48,488
-<font color=#FFFF00> Fight tooth and nail !</font>
+01:18:09,685 --> 01:18:10,777
+We are boys...
 
 832
-01:23:48,872 --> 01:23:50,627
-<font color=#FFFF00> Wins You Win !</font>
+01:18:11,437 --> 01:18:15,158
+...turned to men through the sacrifice
+and forge of combat.
 
 833
-01:24:19,475 --> 01:24:21,549
-<font color=#FFFF00> I did not come here as a spectator </ font>
+01:18:17,610 --> 01:18:19,954
+I played a dangerous game...
 
 834
-01:25:23,831 --> 01:25:24,579
-<font color=#FFFF00> Now!</font>
+01:18:20,196 --> 01:18:21,789
+...and I lost!
 
 835
-01:25:25,380 --> 01:25:28,259
-<font color=#FFFF00> Let them send us to hell !</font>
+01:18:26,660 --> 01:18:30,005
+If you choose to turn your back on me...
 
 836
-01:26:06,903 --> 01:26:07,986
-<font color=#FFFF00> Come on !</font>
+01:18:30,456 --> 01:18:31,833
+...on your country...
 
 837
-01:27:14,937 --> 01:27:18,026
-<font color=#FFFF00> You offer independence without
-consequence or responsibility .</font>
+01:18:35,127 --> 01:18:37,050
+...I will not judge you.
 
 838
-01:27:18,115 --> 01:27:19,626
-<font color=#FFFF00> Do you accept my offer ?</font>
+01:18:38,714 --> 01:18:40,762
+You are free to leave.
 
 839
-01:27:20,127 --> 01:27:21,226
-<font color=#FFFF00> my answer is still no .</font>
+01:18:41,842 --> 01:18:43,640
+You are still free men.
 
 840
-01:27:49,885 --> 01:27:52,156
-<font color=#FFFF00> 're battling more powerful than love.</font>
+01:19:07,076 --> 01:19:08,248
+Very well.
 
 841
-01:28:35,889 --> 01:28:37,137
-<font color=#FFFF00> Give up to me.</font>
+01:19:10,162 --> 01:19:11,163
+Then let us...
 
 842
-01:28:37,340 --> 01:28:38,453
-<font color=#FFFF00> Or Meet ajalmu .</font>
+01:19:11,413 --> 01:19:15,384
+...put our shoulders to work
+and free those ships from the bosom of Greece.
 
 843
-01:28:38,569 --> 01:28:41,062
-<font color=#FFFF00> Who can you opponent besides me?</font>
+01:19:17,711 --> 01:19:20,385
+Today is a privilege to call our own.
 
 844
-01:28:41,974 --> 01:28:44,018
-<font color=#FFFF00> Nothing can match your leadership .</font>
+01:19:21,715 --> 01:19:25,310
+A story that will be told
+for a thousand years.
 
 845
-01:28:44,274 --> 01:28:47,041
-<font color=#FFFF00> I'd rather die a free man
-than live as slaves .</font>
+01:19:26,470 --> 01:19:28,472
+Let our final stand...
 
 846
-01:28:48,584 --> 01:28:50,887
-<font color=#FFFF00> Moreover ye prisoners .</font>
+01:19:28,722 --> 01:19:30,770
+...be recorded to the histories.
 
 847
-01:29:00,134 --> 01:29:02,200
-<font color=#FFFF00> <i> It started as a whisper .</i></font>
+01:19:31,225 --> 01:19:33,023
+And let it be shown...
 
 848
-01:29:03,423 --> 01:29:04,694
-<font color=#FFFF00> <i> A promise .</i></font>
+01:19:33,602 --> 01:19:36,196
+...that we chose to die on our feet...
 
 849
-01:29:06,175 --> 01:29:08,890
-<font color=#FFFF00> <i> soft Gusts dance among the links ....</i></font>
+01:19:36,438 --> 01:19:38,691
+...rather than live on our knees!
 
 850
-01:29:08,894 --> 01:29:12,161
-<font color=#FFFF00> <i> move over the death of 10 000 soldiers.</i></font>
+01:20:26,905 --> 01:20:29,283
+There is only one thing
+you need to know today.
 
 851
-01:29:13,591 --> 01:29:16,881
-<font color=#FFFF00> <i> blew through her hair
-and soft hand of her .</i></font>
+01:20:29,533 --> 01:20:31,035
+Not to get killed.
 
 852
-01:29:17,911 --> 01:29:22,063
-<font color=#FFFF00> <i> Gusts and promise turn into the wind.</i></font>
+01:20:31,285 --> 01:20:35,290
+No. Your father's last words.
 
 853
-01:29:22,711 --> 01:29:24,535
-<font color=#FFFF00> <i> wind blowing across Greece ....</i></font>
+01:20:39,376 --> 01:20:42,425
+He told me that you had earned
+the right to sit at the table.
 
 854
-01:29:24,539 --> 01:29:28,275
-<font color=#FFFF00> <i> Bringing the message delivered
-Time - time of our Independence goddess ....</i></font>
+01:20:59,688 --> 01:21:03,693
+Well, my brother,
+I have no more tactics or tricks.
 
 855
-01:29:28,456 --> 01:29:33,429
-<font color=#FFFF00> <i> And how wise force
-Leonidas kneel in front of him .</i></font>
+01:21:05,486 --> 01:21:07,864
+This will be the last battle that we share.
 
 856
-01:29:35,101 --> 01:29:37,506
-<font color=#FFFF00> Wind That , my friends,
-wind sacrifice.</font>
+01:21:08,113 --> 01:21:11,743
+We have fought next to one other
+for as long as I can remember.
 
 857
-01:29:39,908 --> 01:29:41,529
-<font color=#FFFF00> Wind independence .</font>
+01:21:12,576 --> 01:21:15,955
+Nothing would please me more
+than to rest this sword.
 
 858
-01:29:44,227 --> 01:29:46,016
-Wind color=#FFFF00> <font Justice .</font>
+01:21:17,122 --> 01:21:20,717
+- The preparations that are required?
+- Below deck.
 
 859
-01:29:54,014 --> 01:29:55,582
-<font color=#FFFF00> Wind Judgment.</font>
+01:21:21,794 --> 01:21:23,717
+- Good.
+- Are you sure...
 
 860
-01:30:40,415 --> 01:30:41,568
-<font color=#FFFF00> You're surrounded.</font>
+01:21:23,962 --> 01:21:25,760
+...that you want to commit everything?
 
 861
-01:30:42,270 --> 01:30:44,916
-The entire Greek color=#FFFF00> <font united against you.</font>
+01:21:26,465 --> 01:21:27,557
+Yes.
 
 862
-01:30:45,752 --> 01:30:49,950
-<font color=#FFFF00> Delphi, Thebes , Olympia , Arcadia ....</font>
+01:21:29,385 --> 01:21:32,264
+<i>Without Artemisia's command,
+the Persian navy is nothing.</i>
 
 863
-01:30:50,226 --> 01:30:51,662
-<font color=#FFFF00> and Sparta.</font>
+01:21:34,014 --> 01:21:36,142
+<i>We will never be able to reach her.</i>
 
 864
-01:31:06,068 --> 01:31:08,450
-<font color=#FFFF00> If die fetch me today, I'm ready ...</font>
+01:21:36,392 --> 01:21:37,939
+<i>I will reach her...</i>
 
 865
-01:31:09,782 --> 01:31:11,717
-<font color=#FFFF00> I can not lose my sword .</font>
+01:21:38,727 --> 01:21:40,650
+<i>...and put an end to this.</i>
 
 866
-01:31:12,315 --> 01:31:14,874
-<font color=#FFFF00> There is still time for you to escape.</font>
+01:21:41,563 --> 01:21:43,986
+There will be no room for a retreat.
 
 867
-01:31:19,207 --> 01:31:22,738
-<font color=#FFFF00> killing is an act of depressing.</font>
+01:21:45,401 --> 01:21:46,823
+I know.
 
 868
-01:31:23,427 --> 01:31:26,775
-<font color=#FFFF00> around armadamu dis Command
-and surrender to me.</font>
+01:21:49,196 --> 01:21:52,621
+<i>Today the last Greek ships will be destroyed.</i>
 
 869
-01:31:29,519 --> 01:31:30,882
-<font color=#FFFF00> Surrender </ font>
+01:21:52,866 --> 01:21:54,960
+<i>Show them no mercy.</i>
 
 870
-01:33:51,103 --> 01:34:13,302
-THE ENDING ... ...
+01:21:55,202 --> 01:21:57,705
+<i>Give them no quarter.</i>
+
+871
+01:21:57,955 --> 01:22:01,175
+Today we will dance across the backs
+of dead Greeks.
+
+872
+01:22:01,875 --> 01:22:04,628
+<i>Today we deliver submission.</i>
+
+873
+01:22:05,504 --> 01:22:07,552
+Today I want to feel Themistokles' throat...
+
+874
+01:22:07,840 --> 01:22:09,808
+...beneath my boots.
+
+875
+01:22:40,622 --> 01:22:43,091
+Men, brace yourselves!
+
+876
+01:23:37,221 --> 01:23:38,814
+Prepare for close quarters.
+
+877
+01:23:39,056 --> 01:23:40,558
+Attack!
+
+878
+01:23:46,688 --> 01:23:47,814
+Your father watches you!
+
+879
+01:23:49,191 --> 01:23:51,364
+Hold nothing back!
+
+880
+01:23:51,610 --> 01:23:52,953
+Seize your glory!
+
+881
+01:24:21,306 --> 01:24:23,855
+I'm not here as a witness.
+
+882
+01:25:25,787 --> 01:25:26,629
+Now!
+
+883
+01:25:27,414 --> 01:25:30,042
+And let them send our souls straight to hell!
+
+884
+01:26:07,621 --> 01:26:10,170
+Hyah! Come on!
+
+885
+01:27:16,898 --> 01:27:18,445
+You offered freedom without...
+
+886
+01:27:18,692 --> 01:27:21,662
+- ...consequence or responsibility.
+- Are you accepting my offer?
+
+887
+01:27:21,903 --> 01:27:23,371
+My answer is still no.
+
+888
+01:27:51,975 --> 01:27:54,353
+You fight much harder than you fuck.
+
+889
+01:28:37,896 --> 01:28:40,570
+Surrender to me or meet your death.
+
+890
+01:28:40,816 --> 01:28:41,942
+Who would you fight...
+
+891
+01:28:42,192 --> 01:28:43,444
+...if not for me?
+
+892
+01:28:44,069 --> 01:28:46,288
+No one could challenge your skill.
+
+893
+01:28:46,530 --> 01:28:49,500
+I would rather die a free man than as a slave.
+
+894
+01:28:50,617 --> 01:28:53,086
+Even if the chain was attached to you.
+
+895
+01:29:02,212 --> 01:29:04,681
+<i>It begins as a whisper.</i>
+
+896
+01:29:05,465 --> 01:29:07,092
+<i>A promise.</i>
+
+897
+01:29:08,134 --> 01:29:09,477
+<i>The lightest of breezes...</i>
+
+898
+01:29:09,719 --> 01:29:10,999
+<i>...dances through the rigging...</i>
+
+899
+01:29:11,221 --> 01:29:14,316
+<i>...as it creaks above the death cries
+of 10,000 men.</i>
+
+900
+01:29:15,684 --> 01:29:19,279
+<i>It moves through her hair
+as gently as a lover's hand.</i>
+
+901
+01:29:19,771 --> 01:29:20,647
+<i>That breeze...</i>
+
+902
+01:29:21,940 --> 01:29:25,786
+<i>...that promise, became a wind,
+a wind that is blown across Greece...</i>
+
+903
+01:29:26,027 --> 01:29:28,496
+<i>...carrying a message told again and again...</i>
+
+904
+01:29:28,738 --> 01:29:31,708
+<i>...of our Lady Freedom
+and how wise she was...</i>
+
+905
+01:29:31,950 --> 01:29:35,705
+<i>...to charge Leonidas to lay all at her feet.</i>
+
+906
+01:29:37,372 --> 01:29:40,251
+A wind, my brothers, of sacrifice.
+
+907
+01:29:42,127 --> 01:29:44,050
+A wind of freedom.
+
+908
+01:29:46,256 --> 01:29:48,429
+A wind of justice.
+
+909
+01:29:56,099 --> 01:29:58,147
+A wind of vengeance.
+
+910
+01:30:42,604 --> 01:30:43,856
+You are being surrounded.
+
+911
+01:30:44,356 --> 01:30:47,280
+All of Greece has united against you.
+
+912
+01:30:47,901 --> 01:30:50,825
+<i>Delphi, Thebes, Olympia...</i>
+
+913
+01:30:51,071 --> 01:30:53,870
+<i>...Arcadia and Sparta.</i>
+
+914
+01:31:08,213 --> 01:31:10,762
+If death comes for me today, I'm ready.
+
+915
+01:31:12,050 --> 01:31:14,052
+I could lower my sword.
+
+916
+01:31:14,302 --> 01:31:16,976
+There's still time for you
+to ready a launch and escape.
+
+917
+01:31:21,267 --> 01:31:24,862
+It would be a poor choice
+to force my hand into action.
+
+918
+01:31:25,480 --> 01:31:29,201
+Now order your ships to disengage
+and surrender to me.
+
+919
+01:31:31,611 --> 01:31:33,284
+Surrender?
